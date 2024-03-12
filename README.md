@@ -1,5 +1,5 @@
 # Di Rienzo Lab Publications
-Gray OA, Yoo J, Sobreira DR, Jousma J, Witonsky D, Sakabe NJ, Peng YJ, Prabhakar NR, Fang Y, Nobréga MA, Di Rienzo A. (2022) A pleiotropic hypoxia-sensitive EPAS1 enhancer is disrupted by adaptive alleles in Tibetans. Sci Adv. 8(47):eade 1942. 
+Gray OA, Yoo J, Sobreira DR, Jousma J, Witonsky D, Sakabe NJ, Peng YJ, Prabhakar NR, Fang Y, Nobréga MA, Di Rienzo A. (2022) A pleiotropic hypoxia-sensitive EPAS1 enhancer is disrupted by adaptive alleles in Tibetans. Sci Adv. 8(47):eade 1942. [PubMed](pubmed.ncbi.nlm.nih.gov/36417539/)
 
 Lewis ACF, Molina SJ, Appelbaum PS, Dauda B, Di Rienzo A, Fuentes A, Fullerton SM, Garrison NA, Ghosh N, Hammonds EM, Jones DS, Kenny EE, Kraft P, Lee SS, Mauro M, Novembre J, Panofsky A, Sohail M, Neale BM, Allen DS. (2022) Getting genetic ancestry right for science and society. Science 376(6590):250-252
 
