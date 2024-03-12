@@ -10,8 +10,10 @@ Nakagome S, Hudson RR, Di Rienzo A (2019) Inferring the model and onset of natur
 Krause MD, Huang RT, Wu D, Shentu TP, Harrison DL, Whalen MB, Stolze LK, Di Rienzo A, Moskowitz IP, Civelek M, Romanoski CE, Fang Y. (2018) Genetic variant at coronary artery disease and ischemic stroke locus 1p32.2 regulates endothelial responses to hemodynamics. Proc Natl Acad Sci U S A. 115(48):E11349-E11358
 
 Lindo J, Haas R, Hofman C, Apata M, Moraga M, Verdugo RA, Watson JT, Viviano Llave C, Witonsky D, Beall C, Warinner C, Novembre J, Aldenderfer M, Di Rienzo A. (2018) The genetic prehistory of the Andean highlands 7000 years BP through European contact. Sci Adv. 4(11):eaau4921
+[data](https://www.ncbi.nlm.nih.gov/sra?linkname=bioproject_sra_all&from_uid=470966)
 
 Jeong C, Witonsky DB, Basnyat B, Neupane M, Beall CM, Childs G, et al. (2018) Detecting past and ongoing natural selection among ethnically Tibetan women at high altitude in Nepal. PLoS Genet 14(9): e1007650. 
+[data](https://datadryad.org/stash/dataset/doi:10.5061/dryad.bp46m)
 
 Gnecchi-Ruscone GA, Jeong C, De Fanti S, Sarno S, Trancucci M, Gentilini D, Di Blasio AM, Sherpa MG, Sherpa PT, Marinelli G, Di Marcello M, Natali L, Peluzzi D, Pettener D, Di Rienzo A, Luiselli D, Sazzini M. The genomic landscape of Nepalese Tibeto-Burmans reveals new insights into the recent peopling of Southern Himalayas. Sci Rep. 2017 Nov 14;7(1):15512. 
 
