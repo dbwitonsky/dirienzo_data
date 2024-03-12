@@ -3,7 +3,7 @@ Gray OA, Yoo J, Sobreira DR, Jousma J, Witonsky D, Sakabe NJ, Peng YJ, Prabhakar
 
 Lewis ACF, Molina SJ, Appelbaum PS, Dauda B, Di Rienzo A, Fuentes A, Fullerton SM, Garrison NA, Ghosh N, Hammonds EM, Jones DS, Kenny EE, Kraft P, Lee SS, Mauro M, Novembre J, Panofsky A, Sohail M, Neale BM, Allen DS. (2022) Getting genetic ancestry right for science and society. Science 376(6590):250-252 [PubMed](https://pubmed.ncbi.nlm.nih.gov/35420968/)
 
-Liu C, Witonsky D, Gosling A, Lee JH, Ringbauer H, Hagan R, Patel N, Stahl R, Novembre J, Aldenderfer M, Warinner C, Di Rienzo A & Jeong C. (2022) Ancient genomes from the Himalayas illuminate the genetic history of Tibetans and their Tibeto-Burman speaking neighbors Nat Comm 13:1203
+Liu C, Witonsky D, Gosling A, Lee JH, Ringbauer H, Hagan R, Patel N, Stahl R, Novembre J, Aldenderfer M, Warinner C, Di Rienzo A & Jeong C. (2022) Ancient genomes from the Himalayas illuminate the genetic history of Tibetans and their Tibeto-Burman speaking neighbors Nat Comm 13:1203 [sequence data](https://www.ebi.ac.uk/ena/browser/view/PRJEB41752?show=reads)
 
 Nakagome S, Hudson RR, Di Rienzo A (2019) Inferring the model and onset of natural selection under varying population size from the site frequency spectrum and haplotype structure. Proceedings of the Royal Society B: Biological Sciences 286(1896):20182541
 
