@@ -3,7 +3,7 @@ Gray OA, Yoo J, Sobreira DR, Jousma J, Witonsky D, Sakabe NJ, Peng YJ, Prabhakar
 
 Lewis ACF, Molina SJ, Appelbaum PS, Dauda B, Di Rienzo A, Fuentes A, Fullerton SM, Garrison NA, Ghosh N, Hammonds EM, Jones DS, Kenny EE, Kraft P, Lee SS, Mauro M, Novembre J, Panofsky A, Sohail M, Neale BM, Allen DS. (2022) Getting genetic ancestry right for science and society. Science 376(6590):250-252 [PubMed](https://pubmed.ncbi.nlm.nih.gov/35420968/)
 
-Liu C, Witonsky D, Gosling A, Lee JH, Ringbauer H, Hagan R, Patel N, Stahl R, Novembre J, Aldenderfer M, Warinner C, Di Rienzo A & Jeong C. (2022) Ancient genomes from the Himalayas illuminate the genetic history of Tibetans and their Tibeto-Burman speaking neighbors Nat Comm 13:1203 [sequence data](https://www.ebi.ac.uk/ena/browser/view/PRJEB41752?show=reads) [genotype data
+Liu C, Witonsky D, Gosling A, Lee JH, Ringbauer H, Hagan R, Patel N, Stahl R, Novembre J, Aldenderfer M, Warinner C, Di Rienzo A & Jeong C. (2022) Ancient genomes from the Himalayas illuminate the genetic history of Tibetans and their Tibeto-Burman speaking neighbors Nat Comm 13:1203 [PubMed](https://pubmed.ncbi.nlm.nih.gov/35260549/) [sequence data](https://www.ebi.ac.uk/ena/browser/view/PRJEB41752?show=reads) [genotype data
 ](https://edmond.mpg.de/dataset.xhtml?persistentId=doi:10.17617/3.785SBK)
 
 Nakagome S, Hudson RR, Di Rienzo A (2019) Inferring the model and onset of natural selection under varying population size from the site frequency spectrum and haplotype structure. Proceedings of the Royal Society B: Biological Sciences 286(1896):20182541
@@ -11,10 +11,10 @@ Nakagome S, Hudson RR, Di Rienzo A (2019) Inferring the model and onset of natur
 Krause MD, Huang RT, Wu D, Shentu TP, Harrison DL, Whalen MB, Stolze LK, Di Rienzo A, Moskowitz IP, Civelek M, Romanoski CE, Fang Y. (2018) Genetic variant at coronary artery disease and ischemic stroke locus 1p32.2 regulates endothelial responses to hemodynamics. Proc Natl Acad Sci U S A. 115(48):E11349-E11358
 
 Lindo J, Haas R, Hofman C, Apata M, Moraga M, Verdugo RA, Watson JT, Viviano Llave C, Witonsky D, Beall C, Warinner C, Novembre J, Aldenderfer M, Di Rienzo A. (2018) The genetic prehistory of the Andean highlands 7000 years BP through European contact. Sci Adv. 4(11):eaau4921
-[data](https://www.ncbi.nlm.nih.gov/sra?linkname=bioproject_sra_all&from_uid=470966)
+[sequence data](https://www.ncbi.nlm.nih.gov/sra?linkname=bioproject_sra_all&from_uid=470966)
 
 Jeong C, Witonsky DB, Basnyat B, Neupane M, Beall CM, Childs G, et al. (2018) Detecting past and ongoing natural selection among ethnically Tibetan women at high altitude in Nepal. PLoS Genet 14(9): e1007650. 
-[data](https://datadryad.org/stash/dataset/doi:10.5061/dryad.bp46m)
+[genotype data](https://datadryad.org/stash/dataset/doi:10.5061/dryad.bp46m)
 
 Gnecchi-Ruscone GA, Jeong C, De Fanti S, Sarno S, Trancucci M, Gentilini D, Di Blasio AM, Sherpa MG, Sherpa PT, Marinelli G, Di Marcello M, Natali L, Peluzzi D, Pettener D, Di Rienzo A, Luiselli D, Sazzini M. The genomic landscape of Nepalese Tibeto-Burmans reveals new insights into the recent peopling of Southern Himalayas. Sci Rep. 2017 Nov 14;7(1):15512. 
 
