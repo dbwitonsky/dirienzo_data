@@ -126,76 +126,76 @@ Hancock AM and Di Rienzo A (2008) Detecting the genetic signature of natural sel
 
 Sun C, Di Rienzo A (2008) UGT2B7 is not expressed in normal breast. Breast Cancer Res Treat. 117(1):225-6 [PubMed](https://pubmed.ncbi.nlm.nih.gov/19116784/)
 
-Hancock AM, Witonsky DB, Gordon AS, Eshel G, Pritchard JK, Coop G, and Di Rienzo A (2008) Adaptations to Climate in Candidate Genes for Common Metabolic Disorders. PLoS Genet. 4(2):e32 [PubMed]
+Hancock AM, Witonsky DB, Gordon AS, Eshel G, Pritchard JK, Coop G, and Di Rienzo A (2008) Adaptations to Climate in Candidate Genes for Common Metabolic Disorders. PLoS Genet. 4(2):e32 [PubMed](https://pubmed.ncbi.nlm.nih.gov/18282109/)
 
-Pemberton TJ, Mehta NU, Witonsky D, Di Rienzo A, Allayee H, Conti DV, and Patel PI (2008) Prevalence of common disease-associated variants in Asian Indians. BMC Genet. 9(1): 13 [PubMed]
+Pemberton TJ, Mehta NU, Witonsky D, Di Rienzo A, Allayee H, Conti DV, and Patel PI (2008) Prevalence of common disease-associated variants in Asian Indians. BMC Genet. 9(1): 13 [PubMed](https://pubmed.ncbi.nlm.nih.gov/18248681/)
 
-Huo D, Kim HJ, Adebamowo CA, Ogundiran TO, Akang EE, Campbell O, Adenipekun A, Niu Q, Sveen L, Fackenthal JD, Fackenthal DL, Das S, Cox N, Di Rienzo A, and Olopade OI (2007) Genetic polymorphisms in uridine diphospho- glucuronosyltransferase 1A1 and breast cancer risk in Africans. Breast Cancer Res Treat. 110(2):367-76 [PubMed]
+Huo D, Kim HJ, Adebamowo CA, Ogundiran TO, Akang EE, Campbell O, Adenipekun A, Niu Q, Sveen L, Fackenthal JD, Fackenthal DL, Das S, Cox N, Di Rienzo A, and Olopade OI (2007) Genetic polymorphisms in uridine diphospho- glucuronosyltransferase 1A1 and breast cancer risk in Africans. Breast Cancer Res Treat. 110(2):367-76 [PubMed](https://pubmed.ncbi.nlm.nih.gov/17909964/)
 
-Seixas S, Suriano G, Carvalho F, Seruca R, Rocha J, and Di Rienzo A (2007) Sequence Diversity at the Proximal 14q32.1 SERPIN Subcluster: Evidence for Natural Selection Favoring the Pseudogenization of SERPINA2 Mol. Biol. Evol. 24(2): 587-598 [PubMed]
+Seixas S, Suriano G, Carvalho F, Seruca R, Rocha J, and Di Rienzo A (2007) Sequence Diversity at the Proximal 14q32.1 SERPIN Subcluster: Evidence for Natural Selection Favoring the Pseudogenization of SERPINA2 Mol. Biol. Evol. 24(2): 587-598 [PubMed](https://pubmed.ncbi.nlm.nih.gov/17135331/)
 
-Di Rienzo A (2006) Population genetics models of common diseases Curr. Opin. Genet. Dev. 16(6): 630-636
+Di Rienzo A (2006) Population genetics models of common diseases Curr. Opin. Genet. Dev. 16(6): 630-636 [PubMed](https://pubmed.ncbi.nlm.nih.gov/17055247/)
 
-Weedon MN, Clark VJ, Qian Y, Ben-Shlomo Y, Timpson N, Ebrahim S, Lawlor DA, Pembrey ME, Ring S, Wilkin TJ, Voss LD,  Jeffery AN, Metcalf B, Ferrucci L, Corsi AM, Murray A, Melzer D, Knight B, Shields B, Davey Smith G, Hattersley AT, Di Rienzo A, and Frayling TM (2006) A Common Haplotype of the Glucokinase Gene Alters Fasting Glucose and Birth Weight: Association in Six Studies and Population-Genetics Analyses. Am. J. Hum. Genet. 79(6): 991-1001 
+Weedon MN, Clark VJ, Qian Y, Ben-Shlomo Y, Timpson N, Ebrahim S, Lawlor DA, Pembrey ME, Ring S, Wilkin TJ, Voss LD,  Jeffery AN, Metcalf B, Ferrucci L, Corsi AM, Murray A, Melzer D, Knight B, Shields B, Davey Smith G, Hattersley AT, Di Rienzo A, and Frayling TM (2006) A Common Haplotype of the Glucokinase Gene Alters Fasting Glucose and Birth Weight: Association in Six Studies and Population-Genetics Analyses. Am. J. Hum. Genet. 79(6): 991-1001 [PubMed](https://pubmed.ncbi.nlm.nih.gov/17186458/)
 
-Maitland ML, Di Rienzo A, and Ratain MJ (2006) Interpreting Disparate Responses to Cancer Therapy: The Role of Human Population Genetics. J. Clin. Oncol. 24(14): 2151-2157
+Maitland ML, Di Rienzo A, and Ratain MJ (2006) Interpreting Disparate Responses to Cancer Therapy: The Role of Human Population Genetics. J. Clin. Oncol. 24(14): 2151-2157 [PubMed](https://pubmed.ncbi.nlm.nih.gov/16682733/)
 
-Maitland ML, Grimsley C, Kuttab-Boulos H, Witonsky D, Kasza KE, Yang L, Roe BA, and Di Rienzo A (2006) Comparative genomics analysis of human sequence variation in the UGT1A gene cluster. Pharmacogenomics J. 6: 52-62
+Maitland ML, Grimsley C, Kuttab-Boulos H, Witonsky D, Kasza KE, Yang L, Roe BA, and Di Rienzo A (2006) Comparative genomics analysis of human sequence variation in the UGT1A gene cluster. Pharmacogenomics J. 6: 52-62 [PubMed](https://pubmed.ncbi.nlm.nih.gov/16314881/)
 
-Thompson EE, Kuttab-Boulos, H, Yang L, Roe BA, and Di Rienzo A (2006) Sequence diversity and haplotype structure at the human CYP3A cluster. Pharmacogenomics J. 6: 105-114
+Thompson EE, Kuttab-Boulos, H, Yang L, Roe BA, and Di Rienzo A (2006) Sequence diversity and haplotype structure at the human CYP3A cluster. Pharmacogenomics J. 6: 105-114 [PubMed]
 
-Voight BF, Adams AM, Frisse LA, Qian Y, Hudson RR and Di Rienzo A (2005) Interrogating multiple aspects of variation in a full resequencing data set to infer human population size changes. Proc Natl Acad Sci USA 102: 18508-18513
+Voight BF, Adams AM, Frisse LA, Qian Y, Hudson RR and Di Rienzo A (2005) Interrogating multiple aspects of variation in a full resequencing data set to infer human population size changes. Proc Natl Acad Sci USA 102: 18508-18513 [PubMed]
 
-Thompson EE, Kuttab-Boulos H, Krasowski MD, and Di Rienzo A (2005) Functional constraints on the constitutive androstane receptor inferred from human sequence variation and cross-species comparisons. Hum. Genomics 2: 168-178
+Thompson EE, Kuttab-Boulos H, Krasowski MD, and Di Rienzo A (2005) Functional constraints on the constitutive androstane receptor inferred from human sequence variation and cross-species comparisons. Hum. Genomics 2: 168-178 [PubMed]
 
-Di Rienzo A, and Hudson RR (2005) An evolutionary framework for common diseases: the ancestral-susceptibility model. Trends Genet. 21: 596-601
+Di Rienzo A, and Hudson RR (2005) An evolutionary framework for common diseases: the ancestral-susceptibility model. Trends Genet. 21: 596-601 [PubMed]
 
-Clark VJ, Cox NJ, Hammond M, Hanis CL, and Di Rienzo A (2005) Haplotype structure and phylogenetic shadowing of a hpervariable region in the CAPN10 gene. Hum. Genet. 117: 258-266
+Clark VJ, Cox NJ, Hammond M, Hanis CL, and Di Rienzo A (2005) Haplotype structure and phylogenetic shadowing of a hpervariable region in the CAPN10 gene. Hum. Genet. 117: 258-266 [PubMed]
 
-Vander Molen J, Frisse LM, Fullerton SM, Qian Y, del Bosque-Plata L, Hudson RR, and Di Rienzo A (2005) Population genetics of CAPN10 and GPR35: implications for the evolution of type 2 diabetes variants. Am. J. Hum. Genet. 76: 548-560
+Vander Molen J, Frisse LM, Fullerton SM, Qian Y, del Bosque-Plata L, Hudson RR, and Di Rienzo A (2005) Population genetics of CAPN10 and GPR35: implications for the evolution of type 2 diabetes variants. Am. J. Hum. Genet. 76: 548-560 [PubMed]
 
-Thompson EE, Kuttab-Boulos H, Witonsky D, Yang L, Roe BA,and Di Rienzo A (2004) CYP3A variation and the evolution of salt-sensitivity variants. Am. J. Hum. Genet. 75: 1059-1069
+Thompson EE, Kuttab-Boulos H, Witonsky D, Yang L, Roe BA,and Di Rienzo A (2004) CYP3A variation and the evolution of salt-sensitivity variants. Am. J. Hum. Genet. 75: 1059-1069 [PubMed]
 
-Kreitman M, and Di Rienzo A (2004) Balancing claims for balancing selection. Trends Genet. 20: 300-304
+Kreitman M, and Di Rienzo A (2004) Balancing claims for balancing selection. Trends Genet. 20: 300-304 [PubMed]
 
-Liu W, Innocenti F, Chen PX, Desai A, Grimsley C, Di Rienzo A, Das S, Ratain M. Haplotype analysis of UGT1A1 and UGT1A9 gene polymorphisms related to the glucuronidation of SN-38, the active metabolite of irinotecan. J Clin Oncol. 2004 22(14_suppl):2085
+Liu W, Innocenti F, Chen PX, Desai A, Grimsley C, Di Rienzo A, Das S, Ratain M. Haplotype analysis of UGT1A1 and UGT1A9 gene polymorphisms related to the glucuronidation of SN-38, the active metabolite of irinotecan. J Clin Oncol. 2004 22(14_suppl):2085 [PubMed]
 
-Wall JD, Frisse LA, Hudson RR, and Di Rienzo A (2003) Comparative linkage-disequilibrium analysis of the β-globin hotspot in primates. Am. J. Hum. Genet. 73: 1330-1340
+Wall JD, Frisse LA, Hudson RR, and Di Rienzo A (2003) Comparative linkage-disequilibrium analysis of the β-globin hotspot in primates. Am. J. Hum. Genet. 73: 1330-1340 [PubMed]
 
-Innocenti F, Grimsley C, Das S, Ramirez J, Cheng C, Kuttab-Boulos H, Ratain MJ, and Di Rienzo A (2002) Haplotype structure of the UDP-glucuronosyltransferase 1A1 promoter in different ethnic groups. Pharmacogenetics 12:725-733 
+Innocenti F, Grimsley C, Das S, Ramirez J, Cheng C, Kuttab-Boulos H, Ratain MJ, and Di Rienzo A (2002) Haplotype structure of the UDP-glucuronosyltransferase 1A1 promoter in different ethnic groups. Pharmacogenetics 12:725-733 [PubMed]
 
-Pluzhnikov A, Di Rienzo A and Hudson RR (2002) Inferences about human demography based on multilocus analyses of noncoding sequences. Genetics 161: 1209-1218
+Pluzhnikov A, Di Rienzo A and Hudson RR (2002) Inferences about human demography based on multilocus analyses of noncoding sequences. Genetics 161: 1209-1218 [PubMed]
 
-Aldrich C, Wambebe C, Odama L, Di Rienzo A, and  Ober C (2002) Linkage disequilibrium and age estimates of a deletion polymorphism (1597ΔC) in HLA-G suggest non-neutral evolution. Hum. Immunol.   63: 405-412
+Aldrich C, Wambebe C, Odama L, Di Rienzo A, and  Ober C (2002) Linkage disequilibrium and age estimates of a deletion polymorphism (1597ΔC) in HLA-G suggest non-neutral evolution. Hum. Immunol.   63: 405-412 [PubMed]
 
-Fullerton SM, Bartoszewicz A, Ybazeta G, Horikawa Y, Bell GI, Kidd KK, Cox NJ, Hudson RR, and  Di Rienzo A (2002) Geographic and haplotype structure of candidate type 2 diabetes susceptibility variants at the calpain-10 locus. Am. J. Hum. Genet. 70: 1096-1106
+Fullerton SM, Bartoszewicz A, Ybazeta G, Horikawa Y, Bell GI, Kidd KK, Cox NJ, Hudson RR, and  Di Rienzo A (2002) Geographic and haplotype structure of candidate type 2 diabetes susceptibility variants at the calpain-10 locus. Am. J. Hum. Genet. 70: 1096-1106 [PubMed]
 
-Hamblin MT, Thompson EE, and Di Rienzo A (2002) Complex signatures of natural selection at the Duffy blood group locus. Am. J. Hum. Genet. 70:369-383
+Hamblin MT, Thompson EE, and Di Rienzo A (2002) Complex signatures of natural selection at the Duffy blood group locus. Am. J. Hum. Genet. 70:369-383 [PubMed]
 
-Frisse L, Hudson RR, Bartoszewicz A, Wall JD, Donfack J, and Di Rienzo A (2001) Gene conversion and different population histories may explain the contrast between polymorphism and linkage disequilibrium levels. Am. J. Hum. Genet. 69: 831-843
+Frisse L, Hudson RR, Bartoszewicz A, Wall JD, Donfack J, and Di Rienzo A (2001) Gene conversion and different population histories may explain the contrast between polymorphism and linkage disequilibrium levels. Am. J. Hum. Genet. 69: 831-843 [PubMed]
 
-Smirnova I, Hamblin M, McBride C, Beutler B, and Di Rienzo A (2001) Excess of rare amino acid polymorphisms in the Toll-like receptor 4 in humans. Genetics 158: 1657-1664
+Smirnova I, Hamblin M, McBride C, Beutler B, and Di Rienzo A (2001) Excess of rare amino acid polymorphisms in the Toll-like receptor 4 in humans. Genetics 158: 1657-1664 [PubMed]
 
-Wu X, Di Rienzo A, and Ober C (2001) A population genetics study of single nucleotide polymorphisms in the interleukin 4 receptor a (IL4RA) gene. Genes Immun. 2: 128-134
+Wu X, Di Rienzo A, and Ober C (2001) A population genetics study of single nucleotide polymorphisms in the interleukin 4 receptor a (IL4RA) gene. Genes Immun. 2: 128-134 [PubMed]
 
-Richards M, Macaulay V, Hickey E, Vega E, Guida V, Rengo C, Sellitto D, Cruciani F, Kivisild R, Villems R, Cabrera V, Thomas M, Bradman N, Rychkov S, Rychkov O, Gölge M, Dimitrov D, Hill E, Bradley D, Romano V, Papiha S, Stefanescu G, Hatina J, Belledi M, Di Rienzo A, Oppenheim A, Santachiara-Benerecetti S, Scozzari R, Sykes B, Torroni A, and Bandelt HJ (2000) Tracing European founder lineages in the Near Eastern mtDNA pool. Am. J. Hum. Genet. 67:1251-1276
+Richards M, Macaulay V, Hickey E, Vega E, Guida V, Rengo C, Sellitto D, Cruciani F, Kivisild R, Villems R, Cabrera V, Thomas M, Bradman N, Rychkov S, Rychkov O, Gölge M, Dimitrov D, Hill E, Bradley D, Romano V, Papiha S, Stefanescu G, Hatina J, Belledi M, Di Rienzo A, Oppenheim A, Santachiara-Benerecetti S, Scozzari R, Sykes B, Torroni A, and Bandelt HJ (2000) Tracing European founder lineages in the Near Eastern mtDNA pool. Am. J. Hum. Genet. 67:1251-1276 [PubMed]
 
-Hamblin MT and Di Rienzo A (2000) Detection of the signature of natural selection in humans: evidence from the Duffy blood group locus. Am. J. Hum. Genet. 66: 1669-1679
+Hamblin MT and Di Rienzo A (2000) Detection of the signature of natural selection in humans: evidence from the Duffy blood group locus. Am. J. Hum. Genet. 66: 1669-1679 [PubMed]
 
-Gonser R, Donnelly P, Nicholson G, and Di Rienzo A (2000) Microsatellite mutations and inferences about human evolution. Genetics 154: 1793-1807
+Gonser R, Donnelly P, Nicholson G, and Di Rienzo A (2000) Microsatellite mutations and inferences about human evolution. Genetics 154: 1793-1807 [PubMed]
 
-Przeworski M, Hudson RR, and Di Rienzo A (2000) Adjusting the focus on human variation. Trends Genet. 16: 279-325
+Przeworski M, Hudson RR, and Di Rienzo A (2000) Adjusting the focus on human variation. Trends Genet. 16: 279-325 [PubMed]
 
-Hall D, Ybazeta G, Destro-Bisol G, Petzl-Erler ML, and Di Rienzo A (1999) Variability at the uridine diphosphate glucuronosyltransferase 1A1 promoter in human populations and primates. Pharmacogenetics 9: 591-599
+Hall D, Ybazeta G, Destro-Bisol G, Petzl-Erler ML, and Di Rienzo A (1999) Variability at the uridine diphosphate glucuronosyltransferase 1A1 promoter in human populations and primates. Pharmacogenetics 9: 591-599 [PubMed]
 
-Krings M, Salem AH, Bauer K, Geisert H, Malek AK, Chaix L, Welsby D, Di Rienzo A, Utermann G, Sajantila A, Pääbo S, and Stoneking M (1999) MtDNA analysis of Nile River Valley populations: a genetic corridor or barrier for migration? Am. J. Hum. Genet. 64: 1166-1176
+Krings M, Salem AH, Bauer K, Geisert H, Malek AK, Chaix L, Welsby D, Di Rienzo A, Utermann G, Sajantila A, Pääbo S, and Stoneking M (1999) MtDNA analysis of Nile River Valley populations: a genetic corridor or barrier for migration? Am. J. Hum. Genet. 64: 1166-1176 [PubMed]
 
-Iyer L, Hall D, Das S, Mortell MA, Ramirez J, Kim S, Di Rienzo A, and Ratain MJ (1999) Phenotype/genotype correlation of in vitro SN-38 and bilirubin glucuronidation in human liver tissue with uridine diphosphate glucuronosyltransferase 1A1 (UGT1A1) promoter polymorphism. Clin. Pharm. Ther. 65: 576-582
+Iyer L, Hall D, Das S, Mortell MA, Ramirez J, Kim S, Di Rienzo A, and Ratain MJ (1999) Phenotype/genotype correlation of in vitro SN-38 and bilirubin glucuronidation in human liver tissue with uridine diphosphate glucuronosyltransferase 1A1 (UGT1A1) promoter polymorphism. Clin. Pharm. Ther. 65: 576-582 [PubMed]
 
-Ober C, Cox NJ, Abney M, Di Rienzo A, Lander ES, et al. (1998) Genome-wide search for asthma susceptibility loci in a founder population. Hum. Mol. Genet. 7: 1393-1398
+Ober C, Cox NJ, Abney M, Di Rienzo A, Lander ES, et al. (1998) Genome-wide search for asthma susceptibility loci in a founder population. Hum. Mol. Genet. 7: 1393-1398 [PubMed]
 
-Di Rienzo A (1998) Studies of Populations and Genetic Diseases: Mixing It Up. Trends Genet. 14: 218-219
+Di Rienzo A (1998) Studies of Populations and Genetic Diseases: Mixing It Up. Trends Genet. 14: 218-219 [PubMed]
 
-Di Rienzo A, Donnelly P, Toomajian C, Sisk B, Hill A, Petzl-Erler M, Haines G, and Barch D (1998) Heterogeneity of microsatellite mutations within and between loci, and implications for human demographic histories. Genetics 148: 1269-1284
+Di Rienzo A, Donnelly P, Toomajian C, Sisk B, Hill A, Petzl-Erler M, Haines G, and Barch D (1998) Heterogeneity of microsatellite mutations within and between loci, and implications for human demographic histories. Genetics 148: 1269-1284 [PubMed]
 
-Sajantila A, Lahermo P, Anttinen T, Lukka M, Sistonen P, Savontaus M, Lukka P, Beckman L, Tranebjaerg L, Gedde-Dahl T, Issel-Tarver L, Di Rienzo A, & Pääbo S (1995) Genes and Languages in Europe: an analysis of mitochondrial DNA lineages. Genome Res. 5:42-52
+Sajantila A, Lahermo P, Anttinen T, Lukka M, Sistonen P, Savontaus M, Lukka P, Beckman L, Tranebjaerg L, Gedde-Dahl T, Issel-Tarver L, Di Rienzo A, & Pääbo S (1995) Genes and Languages in Europe: an analysis of mitochondrial DNA lineages. Genome Res. 5:42-52 [PubMed]
