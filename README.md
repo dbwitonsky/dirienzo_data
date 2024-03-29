@@ -142,29 +142,29 @@ Maitland ML, Di Rienzo A, and Ratain MJ (2006) Interpreting Disparate Responses 
 
 Maitland ML, Grimsley C, Kuttab-Boulos H, Witonsky D, Kasza KE, Yang L, Roe BA, and Di Rienzo A (2006) Comparative genomics analysis of human sequence variation in the UGT1A gene cluster. Pharmacogenomics J. 6: 52-62 [PubMed](https://pubmed.ncbi.nlm.nih.gov/16314881/)
 
-Thompson EE, Kuttab-Boulos, H, Yang L, Roe BA, and Di Rienzo A (2006) Sequence diversity and haplotype structure at the human CYP3A cluster. Pharmacogenomics J. 6: 105-114 [PubMed]
+Thompson EE, Kuttab-Boulos, H, Yang L, Roe BA, and Di Rienzo A (2006) Sequence diversity and haplotype structure at the human CYP3A cluster. Pharmacogenomics J. 6: 105-114 [PubMed](https://pubmed.ncbi.nlm.nih.gov/16314882/)
 
-Voight BF, Adams AM, Frisse LA, Qian Y, Hudson RR and Di Rienzo A (2005) Interrogating multiple aspects of variation in a full resequencing data set to infer human population size changes. Proc Natl Acad Sci USA 102: 18508-18513 [PubMed]
+Voight BF, Adams AM, Frisse LA, Qian Y, Hudson RR and Di Rienzo A (2005) Interrogating multiple aspects of variation in a full resequencing data set to infer human population size changes. Proc Natl Acad Sci USA 102: 18508-18513 [PubMed](https://pubmed.ncbi.nlm.nih.gov/16352722/)
 
-Thompson EE, Kuttab-Boulos H, Krasowski MD, and Di Rienzo A (2005) Functional constraints on the constitutive androstane receptor inferred from human sequence variation and cross-species comparisons. Hum. Genomics 2: 168-178 [PubMed]
+Thompson EE, Kuttab-Boulos H, Krasowski MD, and Di Rienzo A (2005) Functional constraints on the constitutive androstane receptor inferred from human sequence variation and cross-species comparisons. Hum. Genomics 2: 168-178 [PubMed](https://pubmed.ncbi.nlm.nih.gov/16197734/)
 
-Di Rienzo A, and Hudson RR (2005) An evolutionary framework for common diseases: the ancestral-susceptibility model. Trends Genet. 21: 596-601 [PubMed]
+Di Rienzo A, and Hudson RR (2005) An evolutionary framework for common diseases: the ancestral-susceptibility model. Trends Genet. 21: 596-601 [PubMed](https://pubmed.ncbi.nlm.nih.gov/16153740/)
 
-Clark VJ, Cox NJ, Hammond M, Hanis CL, and Di Rienzo A (2005) Haplotype structure and phylogenetic shadowing of a hpervariable region in the CAPN10 gene. Hum. Genet. 117: 258-266 [PubMed]
+Clark VJ, Cox NJ, Hammond M, Hanis CL, and Di Rienzo A (2005) Haplotype structure and phylogenetic shadowing of a hpervariable region in the CAPN10 gene. Hum. Genet. 117: 258-266 [PubMed](https://pubmed.ncbi.nlm.nih.gov/15906097/)
 
-Vander Molen J, Frisse LM, Fullerton SM, Qian Y, del Bosque-Plata L, Hudson RR, and Di Rienzo A (2005) Population genetics of CAPN10 and GPR35: implications for the evolution of type 2 diabetes variants. Am. J. Hum. Genet. 76: 548-560 [PubMed]
+Vander Molen J, Frisse LM, Fullerton SM, Qian Y, del Bosque-Plata L, Hudson RR, and Di Rienzo A (2005) Population genetics of CAPN10 and GPR35: implications for the evolution of type 2 diabetes variants. Am. J. Hum. Genet. 76: 548-560 [PubMed](https://pubmed.ncbi.nlm.nih.gov/15696418/)
 
-Thompson EE, Kuttab-Boulos H, Witonsky D, Yang L, Roe BA,and Di Rienzo A (2004) CYP3A variation and the evolution of salt-sensitivity variants. Am. J. Hum. Genet. 75: 1059-1069 [PubMed]
+Thompson EE, Kuttab-Boulos H, Witonsky D, Yang L, Roe BA,and Di Rienzo A (2004) CYP3A variation and the evolution of salt-sensitivity variants. Am. J. Hum. Genet. 75: 1059-1069 [PubMed](https://pubmed.ncbi.nlm.nih.gov/15492926/)
 
-Kreitman M, and Di Rienzo A (2004) Balancing claims for balancing selection. Trends Genet. 20: 300-304 [PubMed]
+Kreitman M, and Di Rienzo A (2004) Balancing claims for balancing selection. Trends Genet. 20: 300-304 [PubMed](https://pubmed.ncbi.nlm.nih.gov/15219394/)
 
 Liu W, Innocenti F, Chen PX, Desai A, Grimsley C, Di Rienzo A, Das S, Ratain M. Haplotype analysis of UGT1A1 and UGT1A9 gene polymorphisms related to the glucuronidation of SN-38, the active metabolite of irinotecan. J Clin Oncol. 2004 22(14_suppl):2085 [PubMed]
 
-Wall JD, Frisse LA, Hudson RR, and Di Rienzo A (2003) Comparative linkage-disequilibrium analysis of the β-globin hotspot in primates. Am. J. Hum. Genet. 73: 1330-1340 [PubMed]
+Wall JD, Frisse LA, Hudson RR, and Di Rienzo A (2003) Comparative linkage-disequilibrium analysis of the β-globin hotspot in primates. Am. J. Hum. Genet. 73: 1330-1340 [PubMed](https://pubmed.ncbi.nlm.nih.gov/14628290/)
 
-Innocenti F, Grimsley C, Das S, Ramirez J, Cheng C, Kuttab-Boulos H, Ratain MJ, and Di Rienzo A (2002) Haplotype structure of the UDP-glucuronosyltransferase 1A1 promoter in different ethnic groups. Pharmacogenetics 12:725-733 [PubMed]
+Innocenti F, Grimsley C, Das S, Ramirez J, Cheng C, Kuttab-Boulos H, Ratain MJ, and Di Rienzo A (2002) Haplotype structure of the UDP-glucuronosyltransferase 1A1 promoter in different ethnic groups. Pharmacogenetics 12:725-733 [PubMed](https://pubmed.ncbi.nlm.nih.gov/12464801/)
 
-Pluzhnikov A, Di Rienzo A and Hudson RR (2002) Inferences about human demography based on multilocus analyses of noncoding sequences. Genetics 161: 1209-1218 [PubMed]
+Pluzhnikov A, Di Rienzo A and Hudson RR (2002) Inferences about human demography based on multilocus analyses of noncoding sequences. Genetics 161: 1209-1218 [PubMed](https://pubmed.ncbi.nlm.nih.gov/12136023/)
 
 Aldrich C, Wambebe C, Odama L, Di Rienzo A, and  Ober C (2002) Linkage disequilibrium and age estimates of a deletion polymorphism (1597ΔC) in HLA-G suggest non-neutral evolution. Hum. Immunol.   63: 405-412 [PubMed]
 
