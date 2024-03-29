@@ -88,23 +88,23 @@ Luca F, Hudson RR, Witonsky DB, Di Rienzo A (2011) A reduced representation appr
 
 Sun C, Southard C, Olopade OI, Di Rienzo A (2011) Differential allelic expression of c.1568C > A at UGT2B15 is due to variation in a novel cis-regulatory element in the 3' UTR. Gene 481(1):24-8. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21513781/)
 
-Maranville JC, Luca F, Richards AL, Wen X, Witonsky DB, Baxter S, Stephens M, Di Rienzo A (2011) Interactions between glucocorticoid treatment and cis-regulatory polymorphisms contribute to cellular response phenotypes. PLoS Genet. 7(7):e1002162  
+Maranville JC, Luca F, Richards AL, Wen X, Witonsky DB, Baxter S, Stephens M, Di Rienzo A (2011) Interactions between glucocorticoid treatment and cis-regulatory polymorphisms contribute to cellular response phenotypes. PLoS Genet. 7(7):e1002162  [PubMed](https://pubmed.ncbi.nlm.nih.gov/21750684/)
 
-Sun C, Huo D, Southard C, Nemesure B, Hennis A, Cristina Leske M, Wu SY, Witonsky DB, Olopade OI, Di Rienzo A (2011) A signature of balancing selection in the region upstream to the human UGT2B4 gene and implications for breast cancer risk. Hum Genet. Jun 10.  
+Sun C, Huo D, Southard C, Nemesure B, Hennis A, Cristina Leske M, Wu SY, Witonsky DB, Olopade OI, Di Rienzo A (2011) A signature of balancing selection in the region upstream to the human UGT2B4 gene and implications for breast cancer risk. Hum Genet. Jun 10.  [PubMed](https://pubmed.ncbi.nlm.nih.gov/21660508/)
 
-Hancock AM, Witonsky DB, Alkorta-Aranburu G, Beall CM, Gebremedhin A, Sukernik R, Utermann G, Pritchard JK, Coop G, Di Rienzo A (2011) Adaptations to climate-mediated selective pressures in humans. PLoS Genet. 7(4):e1001375 
+Hancock AM, Witonsky DB, Alkorta-Aranburu G, Beall CM, Gebremedhin A, Sukernik R, Utermann G, Pritchard JK, Coop G, Di Rienzo A (2011) Adaptations to climate-mediated selective pressures in humans. PLoS Genet. 7(4):e1001375 [PubMed](https://pubmed.ncbi.nlm.nih.gov/21533023/)
 
-Sucheston L, Witonsky DB, Hastings D, Yildiz O, Clark VJ, Di Rienzo A, Onel K (2011) Natural selection and functional genetic variation in the p53 pathway. Hum Mol Genet. 20: 1502-08
+Sucheston L, Witonsky DB, Hastings D, Yildiz O, Clark VJ, Di Rienzo A, Onel K (2011) Natural selection and functional genetic variation in the p53 pathway. Hum Mol Genet. 20: 1502-08 [PubMed](https://pubmed.ncbi.nlm.nih.gov/21266458/)
 
-Sun C, Southard C, Witonsky DB, Kittler R, Di Rienzo A (2010) Allele-specific down-regulation of RPTOR expression induced by retinoids contributes to climate adaptations. PLoS Genet. 6(10):e1001178. 
+Sun C, Southard C, Witonsky DB, Kittler R, Di Rienzo A (2010) Allele-specific down-regulation of RPTOR expression induced by retinoids contributes to climate adaptations. PLoS Genet. 6(10):e1001178. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21060808/)
 
-Pritchard JK, Di Rienzo A (2010) Adaptation - not by sweeps alone. Nat Rev Genet. 11(10):665-7. 
+Pritchard JK, Di Rienzo A (2010) Adaptation - not by sweeps alone. Nat Rev Genet. 11(10):665-7. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20838407/)
 
-Hancock AM, Clark VJ, Qian Y, Di Rienzo A (2010) Population Genetic Analysis of the Uncoupling Proteins Supports a Role for UCP3 in Human Cold Resistance. Mol Biol Evol. 28(1):601-14
+Hancock AM, Clark VJ, Qian Y, Di Rienzo A (2010) Population Genetic Analysis of the Uncoupling Proteins Supports a Role for UCP3 in Human Cold Resistance. Mol Biol Evol. 28(1):601-14 [PubMed](https://pubmed.ncbi.nlm.nih.gov/20802238/)
 
-Hancock AM, Alkorta-Aranburu G, Witonsky DB, Di Rienzo A (2010) Adaptations to new environments in humans: the role of subtle allele frequency shifts. Philos Trans R Soc Lond B Biol Sci. 365(1552):2459-68. 
+Hancock AM, Alkorta-Aranburu G, Witonsky DB, Di Rienzo A (2010) Adaptations to new environments in humans: the role of subtle allele frequency shifts. Philos Trans R Soc Lond B Biol Sci. 365(1552):2459-68. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20643735/)
 
-Coop G, Witonsky D, Di Rienzo A, and Pritchard JK (2010) Using Environmental Correlations to Identify Loci Underlying Local Adaptation. Genetics. 185(4):1411-23
+Coop G, Witonsky D, Di Rienzo A, and Pritchard JK (2010) Using Environmental Correlations to Identify Loci Underlying Local Adaptation. Genetics. 185(4):1411-23 [PubMed](https://pubmed.ncbi.nlm.nih.gov/20516501/)
 
 Hancock AM, Witonsky DB, Ehler E, Alkorta-Aranburu G, Beall C, Gebremedhin A, Sukernik R, Utermann G, Pritchard J, Coop G, and Di Rienzo A (2010) Human adaptations to diet, subsistence, and ecoregion are due to subtle shifts in allele frequency. Proc Natl Acad Sci. 107 Suppl 2:8924-30.
 
