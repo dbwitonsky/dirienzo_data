@@ -62,15 +62,15 @@ Paré-Brunet L, Glubb D, Evans P, Berenguer-Llergo A, Etheridge AS, Skol AD, Di 
 
 Kupfer SS, Maranville JC, Baxter SS, Huang Y, Di Rienzo A (2013) Comparison of Cellular and Transcriptional Responses to 1,25-Dihydroxyvitamin D3 and Glucocorticoids in Peripheral Blood Mononuclear Cells. PLOS ONE 8(10): e76643 [PubMed](https://pubmed.ncbi.nlm.nih.gov/24116131/)
 
-Maranville JC, Baxter SS, Witonsky DB, Chase MA, Di Rienzo A. (2013) Genetic Mapping with Multiple Levels of Phenotypic Information Reveals Determinants of Lymphocyte Glucocorticoid Sensitivity. Am J Hum Genet. 93(4):735-743
+Maranville JC, Baxter SS, Witonsky DB, Chase MA, Di Rienzo A. (2013) Genetic Mapping with Multiple Levels of Phenotypic Information Reveals Determinants of Lymphocyte Glucocorticoid Sensitivity. Am J Hum Genet. 93(4):735-743 [PubMed](https://pubmed.ncbi.nlm.nih.gov/24055111/)
 
-Lundgrin EL, Janocha AJ, Koch CD, Gebremedhin A, Di Rienzo A, Alkorta-Aranburu G, Brittenham GM, Erzurum SC, Beall CM. (2013) Plasma hepcidin of Ethiopian highlanders with steady-state hypoxia. Blood. 122(11):1989-91
+Lundgrin EL, Janocha AJ, Koch CD, Gebremedhin A, Di Rienzo A, Alkorta-Aranburu G, Brittenham GM, Erzurum SC, Beall CM. (2013) Plasma hepcidin of Ethiopian highlanders with steady-state hypoxia. Blood. 122(11):1989-91 [PubMed](https://pubmed.ncbi.nlm.nih.gov/24030262/)
 
-Luca F, Di Rienzo A (2013) Allelic imbalance assays to quantify allele-specific gene expression and transcription factor binding. Methods Mol Biol 1015:201-211
+Luca F, Di Rienzo A (2013) Allelic imbalance assays to quantify allele-specific gene expression and transcription factor binding. Methods Mol Biol 1015:201-211 [PubMed](https://pubmed.ncbi.nlm.nih.gov/23824858/)
 
-Luca F, Maranville JC, Richards AL, Witonsky DB, Stephens M, Di Rienzo A (2013) Genetic, functional and molecular features of glucocorticoid receptor binding. PLOS ONE 8(4):e61654
+Luca F, Maranville JC, Richards AL, Witonsky DB, Stephens M, Di Rienzo A (2013) Genetic, functional and molecular features of glucocorticoid receptor binding. PLOS ONE 8(4):e61654 [PubMed](https://pubmed.ncbi.nlm.nih.gov/23637875/)
 
-Wall JD, Kim SK, Luca F, Carbone L. Mootnick AR, de Jong PJ, Di Rienzo A (2013) Incomplete lineage sorting is common in extant gibbon genera. PLOS ONE 8(1):e53682
+Wall JD, Kim SK, Luca F, Carbone L. Mootnick AR, de Jong PJ, Di Rienzo A (2013) Incomplete lineage sorting is common in extant gibbon genera. PLOS ONE 8(1):e53682 [PubMed](https://pubmed.ncbi.nlm.nih.gov/23341974/)
 
 Maranville JC, Baxter SS, Torres JM, Di Rienzo A (2013) Inter-ethnic differences in lymphocyte sensitivity to glucocorticoids reflect variation in transcriptional response. Pharmacogenomics J 13(2):121-9
 
