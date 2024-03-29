@@ -118,13 +118,13 @@ Sun C, Southard C, Witonsky DB, Olopade OI, Di Rienzo A (2009) Allelic imbalance
 
 Luca F, Kashyap S, Southard C, Zou M, Witonsky D, Di Rienzo A, Conzen SD (2009) Adaptive Variation Regulates the Expression of the Human SGK1 Gene in Response to Stress. PLoS Genet. 5(5): e1000489 [PubMed](https://pubmed.ncbi.nlm.nih.gov/19461886/)
 
-Perera MA, Thirumaran RK, Cox NJ, Hanauer S, Das S, Brimer-Cline C, Lamba V, Schuetz EG, Ratain MJ, Di Rienzo A (2009) Prediction of CYP3A4 enzyme activity using haplotype tag SNPs in African Americans. Pharmacogenomics J. 9(1): 49-60 [PubMed]
+Perera MA, Thirumaran RK, Cox NJ, Hanauer S, Das S, Brimer-Cline C, Lamba V, Schuetz EG, Ratain MJ, Di Rienzo A (2009) Prediction of CYP3A4 enzyme activity using haplotype tag SNPs in African Americans. Pharmacogenomics J. 9(1): 49-60 [PubMed](https://pubmed.ncbi.nlm.nih.gov/18825162/)
 
-Sun C, Southard C, Di Rienzo A (2009) Characterization of a novel splicing variant in the RAPTOR gene. Mutat Res. Mar 9;662(1-2):88-92. [PubMed]
+Sun C, Southard C, Di Rienzo A (2009) Characterization of a novel splicing variant in the RAPTOR gene. Mutat Res. Mar 9;662(1-2):88-92. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19388141/)
 
-Hancock AM and Di Rienzo A (2008) Detecting the genetic signature of natural selection in human populations: models, methods, and data. Annu. Rev. Anthropol. 37: 197-217 [PubMed]
+Hancock AM and Di Rienzo A (2008) Detecting the genetic signature of natural selection in human populations: models, methods, and data. Annu. Rev. Anthropol. 37: 197-217 [PubMed](https://pubmed.ncbi.nlm.nih.gov/20622977/)
 
-Sun C, Di Rienzo A (2008) UGT2B7 is not expressed in normal breast. Breast Cancer Res Treat. 117(1):225-6 [PubMed]
+Sun C, Di Rienzo A (2008) UGT2B7 is not expressed in normal breast. Breast Cancer Res Treat. 117(1):225-6 [PubMed](https://pubmed.ncbi.nlm.nih.gov/19116784/)
 
 Hancock AM, Witonsky DB, Gordon AS, Eshel G, Pritchard JK, Coop G, and Di Rienzo A (2008) Adaptations to Climate in Candidate Genes for Common Metabolic Disorders. PLoS Genet. 4(2):e32 [PubMed]
 
