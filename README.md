@@ -166,7 +166,7 @@ Innocenti F, Grimsley C, Das S, Ramirez J, Cheng C, Kuttab-Boulos H, Ratain MJ, 
 
 Pluzhnikov A, Di Rienzo A and Hudson RR (2002) Inferences about human demography based on multilocus analyses of noncoding sequences. Genetics 161: 1209-1218 [PubMed](https://pubmed.ncbi.nlm.nih.gov/12136023/)
 
-Aldrich C, Wambebe C, Odama L, Di Rienzo A, and  Ober C (2002) Linkage disequilibrium and age estimates of a deletion polymorphism (1597ΔC) in HLA-G suggest non-neutral evolution. Hum. Immunol.   63: 405-412 [PubMed]
+Aldrich C, Wambebe C, Odama L, Di Rienzo A, and  Ober C (2002) Linkage disequilibrium and age estimates of a deletion polymorphism (1597ΔC) in HLA-G suggest non-neutral evolution. Hum. Immunol.   63: 405-412 [PubMed](https://pubmed.ncbi.nlm.nih.gov/11975984/)
 
 Fullerton SM, Bartoszewicz A, Ybazeta G, Horikawa Y, Bell GI, Kidd KK, Cox NJ, Hudson RR, and  Di Rienzo A (2002) Geographic and haplotype structure of candidate type 2 diabetes susceptibility variants at the calpain-10 locus. Am. J. Hum. Genet. 70: 1096-1106 [PubMed]
 
