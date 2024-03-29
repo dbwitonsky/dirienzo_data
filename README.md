@@ -72,21 +72,21 @@ Luca F, Maranville JC, Richards AL, Witonsky DB, Stephens M, Di Rienzo A (2013) 
 
 Wall JD, Kim SK, Luca F, Carbone L. Mootnick AR, de Jong PJ, Di Rienzo A (2013) Incomplete lineage sorting is common in extant gibbon genera. PLOS ONE 8(1):e53682 [PubMed](https://pubmed.ncbi.nlm.nih.gov/23341974/)
 
-Maranville JC, Baxter SS, Torres JM, Di Rienzo A (2013) Inter-ethnic differences in lymphocyte sensitivity to glucocorticoids reflect variation in transcriptional response. Pharmacogenomics J 13(2):121-9
+Maranville JC, Baxter SS, Torres JM, Di Rienzo A (2013) Inter-ethnic differences in lymphocyte sensitivity to glucocorticoids reflect variation in transcriptional response. Pharmacogenomics J 13(2):121-9 [PubMed](https://pubmed.ncbi.nlm.nih.gov/22158329/)
 
-Reich D, Patterson N, Campbell D, Tandon A, Mazieres S, Ray N, Parra MV, Rojas W, Duque C, Mesa N, García LF, Triana O, Blair S, Maestre A, Dib JC, Bravi CM, Bailliet G, Corach D, Hünemeier T, Bortolini MC, Salzano FM, Petzl-Erler ML, Acuña-Alonzo V, Aguilar-Salinas C, Canizales-Quinteros S, Tusié-Luna T, Riba L, Rodríguez-Cruz M, Lopez-Alarcón M, Coral-Vazquez R, Canto-Cetina T, Silva-Zolezzi I, Fernandez-Lopez JC, Contreras AV, Jimenez-Sanchez G, Gómez-Vázquez MJ, Molina J, Carracedo A, Salas A, Gallo C, Poletti G, Witonsky DB, Alkorta-Aranburu G, Sukernik RI, Osipova L, Fedorova SA, Vasquez R, Villena M, Moreau C, Barrantes R, Pauls D, Excoffier L, Bedoya G, Rothhammer F, Dugoujon JM, Larrouy G, Klitz W, Labuda D, Kidd J, Kidd K, Di Rienzo A, Freimer NB, Price AL, Ruiz-Linares A. Reconstructing Native American population history. Nature. 2012 488(7411):370-4
+Reich D, Patterson N, Campbell D, Tandon A, Mazieres S, Ray N, Parra MV, Rojas W, Duque C, Mesa N, García LF, Triana O, Blair S, Maestre A, Dib JC, Bravi CM, Bailliet G, Corach D, Hünemeier T, Bortolini MC, Salzano FM, Petzl-Erler ML, Acuña-Alonzo V, Aguilar-Salinas C, Canizales-Quinteros S, Tusié-Luna T, Riba L, Rodríguez-Cruz M, Lopez-Alarcón M, Coral-Vazquez R, Canto-Cetina T, Silva-Zolezzi I, Fernandez-Lopez JC, Contreras AV, Jimenez-Sanchez G, Gómez-Vázquez MJ, Molina J, Carracedo A, Salas A, Gallo C, Poletti G, Witonsky DB, Alkorta-Aranburu G, Sukernik RI, Osipova L, Fedorova SA, Vasquez R, Villena M, Moreau C, Barrantes R, Pauls D, Excoffier L, Bedoya G, Rothhammer F, Dugoujon JM, Larrouy G, Klitz W, Labuda D, Kidd J, Kidd K, Di Rienzo A, Freimer NB, Price AL, Ruiz-Linares A. Reconstructing Native American population history. Nature. 2012 488(7411):370-4 [PubMed](https://pubmed.ncbi.nlm.nih.gov/22801491/)
 
-Alkorta-Aranburu G, Beall CM, Witonsky DB, Gebremedhin A, Pritchard JK, Di Rienzo A (2012) The genetic architecture of adaptations to high altitude in Ethiopia. PLOS Genetics 8(12): e1003110
+Alkorta-Aranburu G, Beall CM, Witonsky DB, Gebremedhin A, Pritchard JK, Di Rienzo A (2012) The genetic architecture of adaptations to high altitude in Ethiopia. PLOS Genetics 8(12): e1003110 [PubMed](https://pubmed.ncbi.nlm.nih.gov/23236293/)
 
-Maranville JC, Luca F, Stephens M, Di Rienzo A (2012) Mapping gene-environment interactions at regulatory polymorphisms: Insights into mechanisms of phenotypic variation. Transcription 3(2):56-62
+Maranville JC, Luca F, Stephens M, Di Rienzo A (2012) Mapping gene-environment interactions at regulatory polymorphisms: Insights into mechanisms of phenotypic variation. Transcription 3(2):56-62 [PubMed](https://pubmed.ncbi.nlm.nih.gov/22414753/)
 
-Sun C, Southard C, Huo D, Hernandez RD, Witonsky DB, Olopade OI, Di Rienzo A (2012) SNP discovery, expression and cis-regulatory variation in the UGT2B genes. Pharmacogenomics J. 12(4):287-96. 
+Sun C, Southard C, Huo D, Hernandez RD, Witonsky DB, Olopade OI, Di Rienzo A (2012) SNP discovery, expression and cis-regulatory variation in the UGT2B genes. Pharmacogenomics J. 12(4):287-96. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21358749/)
 
-Munoz-Fuentes M, Di Rienzo A, Vila C (2011) Prdm9, a Major Determinant of Meiotic Recombination Hotspots, Is Not Functional in Dogs and Their Wild Relatives, Wolves and Coyotes, PLoS ONE 6(11):e25498
+Munoz-Fuentes M, Di Rienzo A, Vila C (2011) Prdm9, a Major Determinant of Meiotic Recombination Hotspots, Is Not Functional in Dogs and Their Wild Relatives, Wolves and Coyotes, PLoS ONE 6(11):e25498 [PubMed](https://pubmed.ncbi.nlm.nih.gov/22102853/)
 
-Luca F, Hudson RR, Witonsky DB, Di Rienzo A (2011) A reduced representation approach to population genetic analyses and applications to human evolution. Genome Res. 21(7):1087-98. 
+Luca F, Hudson RR, Witonsky DB, Di Rienzo A (2011) A reduced representation approach to population genetic analyses and applications to human evolution. Genome Res. 21(7):1087-98. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21628451/)
 
-Sun C, Southard C, Olopade OI, Di Rienzo A (2011) Differential allelic expression of c.1568C > A at UGT2B15 is due to variation in a novel cis-regulatory element in the 3' UTR. Gene 481(1):24-8. 
+Sun C, Southard C, Olopade OI, Di Rienzo A (2011) Differential allelic expression of c.1568C > A at UGT2B15 is due to variation in a novel cis-regulatory element in the 3' UTR. Gene 481(1):24-8. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21513781/)
 
 Maranville JC, Luca F, Richards AL, Wen X, Witonsky DB, Baxter S, Stephens M, Di Rienzo A (2011) Interactions between glucocorticoid treatment and cis-regulatory polymorphisms contribute to cellular response phenotypes. PLoS Genet. 7(7):e1002162  
 
