@@ -50,17 +50,17 @@ Muñoz-Fuentes V, Marcet-Ortega M, Alkorta-Aranburu G, Linde Forsberg C, Morrell
 
 Jeong C, Di Rienzo A. (2014) Adaptations to local environments in modern human populations. Curr Opin Genet Dev. 2014;29:1-8. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25129844/)
 
-Maranville JC, Micic D, Hanauer SB, Di Rienzo A, Kupfer SS. (2014) In vitro sensitivity assays and clinical response to glucocorticoids in patients with inflammatory bowel disease. J Crohns Colitis. 2014;8(11):1539-47.
+Maranville JC, Micic D, Hanauer SB, Di Rienzo A, Kupfer SS. (2014) In vitro sensitivity assays and clinical response to glucocorticoids in patients with inflammatory bowel disease. J Crohns Colitis. 2014;8(11):1539-47. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25052346/)
 
-Maranville JC, Nanda R, Fleming GF, Skor MN, Di Rienzo A, Conzen SD. (2014) Gene expression of peripheral blood cells reveals pathways downstream of glucocorticoid receptor antagonism and nab-paclitaxel treatment. Pharmacogenet Genomics. 2014;24(9):451-8.
+Maranville JC, Nanda R, Fleming GF, Skor MN, Di Rienzo A, Conzen SD. (2014) Gene expression of peripheral blood cells reveals pathways downstream of glucocorticoid receptor antagonism and nab-paclitaxel treatment. Pharmacogenet Genomics. 2014;24(9):451-8. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25000515/)
 
-Li H, Giger ML, Sun C, Ponsukcharoen U, Huo D, Lan L, Olopade OI, Jamieson AR, Brown JB, Di Rienzo A. (2014) Pilot study demonstrating potential association between breast cancer image-based risk phenotypes and genomic biomarkers. Med Phys. 41(3):031917
+Li H, Giger ML, Sun C, Ponsukcharoen U, Huo D, Lan L, Olopade OI, Jamieson AR, Brown JB, Di Rienzo A. (2014) Pilot study demonstrating potential association between breast cancer image-based risk phenotypes and genomic biomarkers. Med Phys. 41(3):031917 [PubMed](https://pubmed.ncbi.nlm.nih.gov/24593735/)
 
-Jeong C, Alkorta-Aranburu G, Basnyat B, Neupane M, Witonsky DB, Pritchard JK, Beall CM, Di Rienzo A. (2014) Admixture facilitates genetic adaptations to high altitude in Tibet. Nat Commun. 5:3281
+Jeong C, Alkorta-Aranburu G, Basnyat B, Neupane M, Witonsky DB, Pritchard JK, Beall CM, Di Rienzo A. (2014) Admixture facilitates genetic adaptations to high altitude in Tibet. Nat Commun. 5:3281 [PubMed](https://pubmed.ncbi.nlm.nih.gov/24513612/)
 
-Paré-Brunet L, Glubb D, Evans P, Berenguer-Llergo A, Etheridge AS, Skol AD, Di Rienzo A, Duan S, Gamazon ER, Innocenti F. (2014) Discovery and functional assessment of gene variants in the vascular endothelial growth factor pathway. Hum Mutat. 35(2):227-35.
+Paré-Brunet L, Glubb D, Evans P, Berenguer-Llergo A, Etheridge AS, Skol AD, Di Rienzo A, Duan S, Gamazon ER, Innocenti F. (2014) Discovery and functional assessment of gene variants in the vascular endothelial growth factor pathway. Hum Mutat. 35(2):227-35. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24186849/)
 
-Kupfer SS, Maranville JC, Baxter SS, Huang Y, Di Rienzo A (2013) Comparison of Cellular and Transcriptional Responses to 1,25-Dihydroxyvitamin D3 and Glucocorticoids in Peripheral Blood Mononuclear Cells. PLOS ONE 8(10): e76643
+Kupfer SS, Maranville JC, Baxter SS, Huang Y, Di Rienzo A (2013) Comparison of Cellular and Transcriptional Responses to 1,25-Dihydroxyvitamin D3 and Glucocorticoids in Peripheral Blood Mononuclear Cells. PLOS ONE 8(10): e76643 [PubMed](https://pubmed.ncbi.nlm.nih.gov/24116131/)
 
 Maranville JC, Baxter SS, Witonsky DB, Chase MA, Di Rienzo A. (2013) Genetic Mapping with Multiple Levels of Phenotypic Information Reveals Determinants of Lymphocyte Glucocorticoid Sensitivity. Am J Hum Genet. 93(4):735-743
 
