@@ -106,33 +106,33 @@ Hancock AM, Alkorta-Aranburu G, Witonsky DB, Di Rienzo A (2010) Adaptations to n
 
 Coop G, Witonsky D, Di Rienzo A, and Pritchard JK (2010) Using Environmental Correlations to Identify Loci Underlying Local Adaptation. Genetics. 185(4):1411-23 [PubMed](https://pubmed.ncbi.nlm.nih.gov/20516501/)
 
-Hancock AM, Witonsky DB, Ehler E, Alkorta-Aranburu G, Beall C, Gebremedhin A, Sukernik R, Utermann G, Pritchard J, Coop G, and Di Rienzo A (2010) Human adaptations to diet, subsistence, and ecoregion are due to subtle shifts in allele frequency. Proc Natl Acad Sci. 107 Suppl 2:8924-30.
+Hancock AM, Witonsky DB, Ehler E, Alkorta-Aranburu G, Beall C, Gebremedhin A, Sukernik R, Utermann G, Pritchard J, Coop G, and Di Rienzo A (2010) Human adaptations to diet, subsistence, and ecoregion are due to subtle shifts in allele frequency. Proc Natl Acad Sci. 107 Suppl 2:8924-30. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20445095/)
 
-Luca F, Perry GH, and Di Rienzo A (2010) Evolutionary adaptations to dietary changes. Annu Rev Nutr. 30:291-314
+Luca F, Perry GH, and Di Rienzo A (2010) Evolutionary adaptations to dietary changes. Annu Rev Nutr. 30:291-314 [PubMed](https://pubmed.ncbi.nlm.nih.gov/20420525/)
 
-Sun C, Olopade Ol, and Di Rienzo A (2010) rs2981582 is associated with FGFR2 expression in normal breast. Cancer Genet Cytogenet. 197(2):193-4. 
+Sun C, Olopade Ol, and Di Rienzo A (2010) rs2981582 is associated with FGFR2 expression in normal breast. Cancer Genet Cytogenet. 197(2):193-4. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20193855/)
 
-Novembre J, Di Rienzo A (2009) Spatial patterns of variation due to natural selection in humans. Nat Rev Genet. 10(11): 745-55
+Novembre J, Di Rienzo A (2009) Spatial patterns of variation due to natural selection in humans. Nat Rev Genet. 10(11): 745-55 [PubMed](https://pubmed.ncbi.nlm.nih.gov/19823195/)
 
-Sun C, Southard C, Witonsky DB, Olopade OI, Di Rienzo A (2009) Allelic imbalance (AI) identifies novel tissue-specific cis-regulatory variation for human UGT2B15. Hum Mutat. 662(1-2):88-92.
+Sun C, Southard C, Witonsky DB, Olopade OI, Di Rienzo A (2009) Allelic imbalance (AI) identifies novel tissue-specific cis-regulatory variation for human UGT2B15. Hum Mutat. 662(1-2):88-92. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19847790/)
 
-Luca F, Kashyap S, Southard C, Zou M, Witonsky D, Di Rienzo A, Conzen SD (2009) Adaptive Variation Regulates the Expression of the Human SGK1 Gene in Response to Stress. PLoS Genet. 5(5): e1000489 
+Luca F, Kashyap S, Southard C, Zou M, Witonsky D, Di Rienzo A, Conzen SD (2009) Adaptive Variation Regulates the Expression of the Human SGK1 Gene in Response to Stress. PLoS Genet. 5(5): e1000489 [PubMed](https://pubmed.ncbi.nlm.nih.gov/19461886/)
 
-Perera MA, Thirumaran RK, Cox NJ, Hanauer S, Das S, Brimer-Cline C, Lamba V, Schuetz EG, Ratain MJ, Di Rienzo A (2009) Prediction of CYP3A4 enzyme activity using haplotype tag SNPs in African Americans. Pharmacogenomics J. 9(1): 49-60
+Perera MA, Thirumaran RK, Cox NJ, Hanauer S, Das S, Brimer-Cline C, Lamba V, Schuetz EG, Ratain MJ, Di Rienzo A (2009) Prediction of CYP3A4 enzyme activity using haplotype tag SNPs in African Americans. Pharmacogenomics J. 9(1): 49-60 [PubMed]
 
-Sun C, Southard C, Di Rienzo A (2009) Characterization of a novel splicing variant in the RAPTOR gene. Mutat Res. Mar 9;662(1-2):88-92.
+Sun C, Southard C, Di Rienzo A (2009) Characterization of a novel splicing variant in the RAPTOR gene. Mutat Res. Mar 9;662(1-2):88-92. [PubMed]
 
-Hancock AM and Di Rienzo A (2008) Detecting the genetic signature of natural selection in human populations: models, methods, and data. Annu. Rev. Anthropol. 37: 197-217
+Hancock AM and Di Rienzo A (2008) Detecting the genetic signature of natural selection in human populations: models, methods, and data. Annu. Rev. Anthropol. 37: 197-217 [PubMed]
 
-Sun C, Di Rienzo A (2008) UGT2B7 is not expressed in normal breast. Breast Cancer Res Treat. 117(1):225-6     
+Sun C, Di Rienzo A (2008) UGT2B7 is not expressed in normal breast. Breast Cancer Res Treat. 117(1):225-6 [PubMed]
 
-Hancock AM, Witonsky DB, Gordon AS, Eshel G, Pritchard JK, Coop G, and Di Rienzo A (2008) Adaptations to Climate in Candidate Genes for Common Metabolic Disorders. PLoS Genet. 4(2):e32
+Hancock AM, Witonsky DB, Gordon AS, Eshel G, Pritchard JK, Coop G, and Di Rienzo A (2008) Adaptations to Climate in Candidate Genes for Common Metabolic Disorders. PLoS Genet. 4(2):e32 [PubMed]
 
-Pemberton TJ, Mehta NU, Witonsky D, Di Rienzo A, Allayee H, Conti DV, and Patel PI (2008) Prevalence of common disease-associated variants in Asian Indians. BMC Genet. 9(1): 13
+Pemberton TJ, Mehta NU, Witonsky D, Di Rienzo A, Allayee H, Conti DV, and Patel PI (2008) Prevalence of common disease-associated variants in Asian Indians. BMC Genet. 9(1): 13 [PubMed]
 
-Huo D, Kim HJ, Adebamowo CA, Ogundiran TO, Akang EE, Campbell O, Adenipekun A, Niu Q, Sveen L, Fackenthal JD, Fackenthal DL, Das S, Cox N, Di Rienzo A, and Olopade OI (2007) Genetic polymorphisms in uridine diphospho- glucuronosyltransferase 1A1 and breast cancer risk in Africans. Breast Cancer Res Treat. 110(2):367-76
+Huo D, Kim HJ, Adebamowo CA, Ogundiran TO, Akang EE, Campbell O, Adenipekun A, Niu Q, Sveen L, Fackenthal JD, Fackenthal DL, Das S, Cox N, Di Rienzo A, and Olopade OI (2007) Genetic polymorphisms in uridine diphospho- glucuronosyltransferase 1A1 and breast cancer risk in Africans. Breast Cancer Res Treat. 110(2):367-76 [PubMed]
 
-Seixas S, Suriano G, Carvalho F, Seruca R, Rocha J, and Di Rienzo A (2007) Sequence Diversity at the Proximal 14q32.1 SERPIN Subcluster: Evidence for Natural Selection Favoring the Pseudogenization of SERPINA2 Mol. Biol. Evol. 24(2): 587-598
+Seixas S, Suriano G, Carvalho F, Seruca R, Rocha J, and Di Rienzo A (2007) Sequence Diversity at the Proximal 14q32.1 SERPIN Subcluster: Evidence for Natural Selection Favoring the Pseudogenization of SERPINA2 Mol. Biol. Evol. 24(2): 587-598 [PubMed]
 
 Di Rienzo A (2006) Population genetics models of common diseases Curr. Opin. Genet. Dev. 16(6): 630-636
 
