@@ -15,7 +15,7 @@ Lindo J, Haas R, Hofman C, Apata M, Moraga M, Verdugo RA, Watson JT, Viviano Lla
 [sequence data](https://www.ncbi.nlm.nih.gov/sra?linkname=bioproject_sra_all&from_uid=470966)
 
 Jeong C, Witonsky DB, Basnyat B, Neupane M, Beall CM, Childs G, et al. (2018) Detecting past and ongoing natural selection among ethnically Tibetan women at high altitude in Nepal. PLoS Genet 14(9): e1007650. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30188897/)
-[genotype data](https://datadryad.org/stash/dataset/doi:10.5061/dryad.bp46m)
+[genotype data](https://datadryad.org/stash/dataset/doi:10.5061/dryad.bp46m) [sequence data](https://www.ncbi.nlm.nih.gov/sra?linkname=bioproject_sra_all&from_uid=420511)
 
 Gnecchi-Ruscone GA, Jeong C, De Fanti S, Sarno S, Trancucci M, Gentilini D, Di Blasio AM, Sherpa MG, Sherpa PT, Marinelli G, Di Marcello M, Natali L, Peluzzi D, Pettener D, Di Rienzo A, Luiselli D, Sazzini M. The genomic landscape of Nepalese Tibeto-Burmans reveals new insights into the recent peopling of Southern Himalayas. Sci Rep. 2017 Nov 14;7(1):15512. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29138459/)
 
