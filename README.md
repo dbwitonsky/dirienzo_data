@@ -17,13 +17,14 @@ Lindo J, Haas R, Hofman C, Apata M, Moraga M, Verdugo RA, Watson JT, Viviano Lla
 Jeong C, Witonsky DB, Basnyat B, Neupane M, Beall CM, Childs G, et al. (2018) Detecting past and ongoing natural selection among ethnically Tibetan women at high altitude in Nepal. PLoS Genet 14(9): e1007650. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30188897/)
 [genotype data](https://datadryad.org/stash/dataset/doi:10.5061/dryad.bp46m) [sequence data](https://www.ncbi.nlm.nih.gov/sra?linkname=bioproject_sra_all&from_uid=420511)
 
-Gnecchi-Ruscone GA, Jeong C, De Fanti S, Sarno S, Trancucci M, Gentilini D, Di Blasio AM, Sherpa MG, Sherpa PT, Marinelli G, Di Marcello M, Natali L, Peluzzi D, Pettener D, Di Rienzo A, Luiselli D, Sazzini M. The genomic landscape of Nepalese Tibeto-Burmans reveals new insights into the recent peopling of Southern Himalayas. Sci Rep. 2017 Nov 14;7(1):15512. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29138459/)
+Gnecchi-Ruscone GA, Jeong C, De Fanti S, Sarno S, Trancucci M, Gentilini D, Di Blasio AM, Sherpa MG, Sherpa PT, Marinelli G, Di Marcello M, Natali L, Peluzzi D, Pettener D, Di Rienzo A, Luiselli D, Sazzini M. The genomic landscape of Nepalese Tibeto-Burmans reveals new insights into the recent peopling of Southern Himalayas. Sci Rep. 2017 Nov 14;7(1):15512. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29138459/) [genotype data](https://figshare.com/articles/dataset/South_American_dataset_Gnecchi-Ruscone_et_al_2019_/7667174)
 
 Cho JI, Basnyat B, Jeong C, Di Rienzo A, Childs G, Craig SR, Sun J, Beall CM. Ethnically Tibetan women in Nepal with low hemoglobin concentration have better reproductive outcomes. Evol Med Public Health. 2017 Apr 21;2017(1):82-96 [PubMed](https://pubmed.ncbi.nlm.nih.gov/28567284/)
 
 Jeong C, Peter BM, Basnyat B, Neupane M, Beall CM, Childs G, Craig SR, Novembre J, Di Rienzo A. A longitudinal cline characterizes the genetic structure of human populations in the Tibetan plateau. PLoS One. 2017 Apr 27;12(4):e0175885 [PubMed](https://pubmed.ncbi.nlm.nih.gov/28448508/)
+[genotype data](https://datadryad.org/stash/dataset/doi:10.5061/dryad.77v30)
 
-Alleyne D, Witonsky DB, Mapes B, Nakagome S, Sommars M, Hong E, Muckala KA, Di Rienzo A, Kupfer SS. Colonic transcriptional response to 1α,25(OH)(2) vitamin D(3) in African- and European-Americans. J Steroid Biochem Mol Biol. 2017 Apr;168:49-59. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28163244/)
+ Alleyne D, Witonsky DB, Mapes B, Nakagome S, Sommars M, Hong E, Muckala KA, Di Rienzo A, Kupfer SS. Colonic transcriptional response to 1α,25(OH)(2) vitamin D(3) in African- and European-Americans. J Steroid Biochem Mol Biol. 2017 Apr;168:49-59. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28163244/)
 
 Cole AM, Cox S, Jeong C, Petousi N, Aryal DR, Droma Y, Hanaoka M, Ota M, Kobayashi N, Gasparini P, Montgomery H, Robbins P, Di Rienzo A, Cavalleri GL. Genetic structure in the Sherpa and neighboring Nepalese populations. BMC Genomics. 2017 Jan 19;18(1):102. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28103797/)
 
