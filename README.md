@@ -1,6 +1,6 @@
 # Di Rienzo Lab Publications
 Gray OA, Yoo J, Sobreira DR, Jousma J, Witonsky D, Sakabe NJ, Peng YJ, Prabhakar NR, Fang Y, Nobréga MA, Di Rienzo A. (2022) A pleiotropic hypoxia-sensitive EPAS1 enhancer is disrupted by adaptive alleles in Tibetans. Sci Adv. 8(47):eade 1942. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36417539/)
-
+[ATAC-seq, RNA-seq, CapHiC data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE197527)
 Lewis ACF, Molina SJ, Appelbaum PS, Dauda B, Di Rienzo A, Fuentes A, Fullerton SM, Garrison NA, Ghosh N, Hammonds EM, Jones DS, Kenny EE, Kraft P, Lee SS, Mauro M, Novembre J, Panofsky A, Sohail M, Neale BM, Allen DS. (2022) Getting genetic ancestry right for science and society. Science 376(6590):250-252 [PubMed](https://pubmed.ncbi.nlm.nih.gov/35420968/)
 
 Liu C, Witonsky D, Gosling A, Lee JH, Ringbauer H, Hagan R, Patel N, Stahl R, Novembre J, Aldenderfer M, Warinner C, Di Rienzo A & Jeong C. (2022) Ancient genomes from the Himalayas illuminate the genetic history of Tibetans and their Tibeto-Burman speaking neighbors Nat Comm 13:1203 [PubMed](https://pubmed.ncbi.nlm.nih.gov/35260549/) [sequence data](https://www.ebi.ac.uk/ena/browser/view/PRJEB41752?show=reads) [genotype data
