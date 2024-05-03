@@ -34,7 +34,7 @@ Mallick S, Li H, Lipson M, Mathieson I, Gymrek M, Racimo F, Zhao M, Chennagiri N
 
 Kariuki SN, Maranville JC, Baxter SS, Jeong C, Nakagome S, Hrusch CL, Witonsky DB, Sperling AI, Di Rienzo A. Mapping Variation in Cellular and Transcriptional Response to 1,25-Dihydroxyvitamin D3 in Peripheral Blood Mononuclear Cells. PLoS One. 2016 11(7):e0159779 [PubMed](https://pubmed.ncbi.nlm.nih.gov/26976439/) [microarray data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE82023)
 
-Jeong C, Ozga AT, Witonsky DB, Malmström H, Edlund H, Hofman CA, Hagan RW, Jakobsson M, Lewis CM, Aldenderfer MS, Di Rienzo A, Warinner C. (2016) Long-term genetic stability and a high-altitude East Asian origin for the peoples of the high valleys of the Himalayan arc. Proc Natl Acad Sci U S A. 113(27):7485-90 [PubMed](https://pubmed.ncbi.nlm.nih.gov/27325755/)
+Jeong C, Ozga AT, Witonsky DB, Malmström H, Edlund H, Hofman CA, Hagan RW, Jakobsson M, Lewis CM, Aldenderfer MS, Di Rienzo A, Warinner C. (2016) Long-term genetic stability and a high-altitude East Asian origin for the peoples of the high valleys of the Himalayan arc. Proc Natl Acad Sci U S A. 113(27):7485-90 [PubMed](https://pubmed.ncbi.nlm.nih.gov/27325755/) [sequence data](https://www.ncbi.nlm.nih.gov/sra/?term=SRP065070)
 
 Kariuki SN, Blischak JD, Nakagome S, Witonsky DB, Di Rienzo A. Patterns of Transcriptional Response to 1,25-Dihydroxyvitamin D3 and Bacterial Lipopolysaccharide in Primary Human Monocytes. G3 (Bethesda). 2016 6(5):1345-55. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26976439/) [microarray data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE78083)
 
