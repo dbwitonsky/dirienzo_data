@@ -62,19 +62,19 @@ Jeong C, Alkorta-Aranburu G, Basnyat B, Neupane M, Witonsky DB, Pritchard JK, Be
 
 Paré-Brunet L, Glubb D, Evans P, Berenguer-Llergo A, Etheridge AS, Skol AD, Di Rienzo A, Duan S, Gamazon ER, Innocenti F. (2014) Discovery and functional assessment of gene variants in the vascular endothelial growth factor pathway. Hum Mutat. 35(2):227-35. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24186849/)
 
-Kupfer SS, Maranville JC, Baxter SS, Huang Y, Di Rienzo A (2013) Comparison of Cellular and Transcriptional Responses to 1,25-Dihydroxyvitamin D3 and Glucocorticoids in Peripheral Blood Mononuclear Cells. PLOS ONE 8(10): e76643 [PubMed](https://pubmed.ncbi.nlm.nih.gov/24116131/)
+Kupfer SS, Maranville JC, Baxter SS, Huang Y, Di Rienzo A (2013) Comparison of Cellular and Transcriptional Responses to 1,25-Dihydroxyvitamin D3 and Glucocorticoids in Peripheral Blood Mononuclear Cells. PLOS ONE 8(10): e76643 [PubMed](https://pubmed.ncbi.nlm.nih.gov/24116131/) [microarray data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE50012)
 
-Maranville JC, Baxter SS, Witonsky DB, Chase MA, Di Rienzo A. (2013) Genetic Mapping with Multiple Levels of Phenotypic Information Reveals Determinants of Lymphocyte Glucocorticoid Sensitivity. Am J Hum Genet. 93(4):735-743 [PubMed](https://pubmed.ncbi.nlm.nih.gov/24055111/)
+Maranville JC, Baxter SS, Witonsky DB, Chase MA, Di Rienzo A. (2013) Genetic Mapping with Multiple Levels of Phenotypic Information Reveals Determinants of Lymphocyte Glucocorticoid Sensitivity. Am J Hum Genet. 93(4):735-743 [PubMed](https://pubmed.ncbi.nlm.nih.gov/24055111/) [microarray data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE48801)
 
 Lundgrin EL, Janocha AJ, Koch CD, Gebremedhin A, Di Rienzo A, Alkorta-Aranburu G, Brittenham GM, Erzurum SC, Beall CM. (2013) Plasma hepcidin of Ethiopian highlanders with steady-state hypoxia. Blood. 122(11):1989-91 [PubMed](https://pubmed.ncbi.nlm.nih.gov/24030262/)
 
 Luca F, Di Rienzo A (2013) Allelic imbalance assays to quantify allele-specific gene expression and transcription factor binding. Methods Mol Biol 1015:201-211 [PubMed](https://pubmed.ncbi.nlm.nih.gov/23824858/)
 
-Luca F, Maranville JC, Richards AL, Witonsky DB, Stephens M, Di Rienzo A (2013) Genetic, functional and molecular features of glucocorticoid receptor binding. PLOS ONE 8(4):e61654 [PubMed](https://pubmed.ncbi.nlm.nih.gov/23637875/)
+Luca F, Maranville JC, Richards AL, Witonsky DB, Stephens M, Di Rienzo A (2013) Genetic, functional and molecular features of glucocorticoid receptor binding. PLOS ONE 8(4):e61654 [PubMed](https://pubmed.ncbi.nlm.nih.gov/23637875/) [microarray data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE45640)
 
 Wall JD, Kim SK, Luca F, Carbone L. Mootnick AR, de Jong PJ, Di Rienzo A (2013) Incomplete lineage sorting is common in extant gibbon genera. PLOS ONE 8(1):e53682 [PubMed](https://pubmed.ncbi.nlm.nih.gov/23341974/)
 
-Maranville JC, Baxter SS, Torres JM, Di Rienzo A (2013) Inter-ethnic differences in lymphocyte sensitivity to glucocorticoids reflect variation in transcriptional response. Pharmacogenomics J 13(2):121-9 [PubMed](https://pubmed.ncbi.nlm.nih.gov/22158329/)
+Maranville JC, Baxter SS, Torres JM, Di Rienzo A (2013) Inter-ethnic differences in lymphocyte sensitivity to glucocorticoids reflect variation in transcriptional response. Pharmacogenomics J 13(2):121-9 [PubMed](https://pubmed.ncbi.nlm.nih.gov/22158329/) [microarray data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE33649)
 
 Reich D, Patterson N, Campbell D, Tandon A, Mazieres S, Ray N, Parra MV, Rojas W, Duque C, Mesa N, García LF, Triana O, Blair S, Maestre A, Dib JC, Bravi CM, Bailliet G, Corach D, Hünemeier T, Bortolini MC, Salzano FM, Petzl-Erler ML, Acuña-Alonzo V, Aguilar-Salinas C, Canizales-Quinteros S, Tusié-Luna T, Riba L, Rodríguez-Cruz M, Lopez-Alarcón M, Coral-Vazquez R, Canto-Cetina T, Silva-Zolezzi I, Fernandez-Lopez JC, Contreras AV, Jimenez-Sanchez G, Gómez-Vázquez MJ, Molina J, Carracedo A, Salas A, Gallo C, Poletti G, Witonsky DB, Alkorta-Aranburu G, Sukernik RI, Osipova L, Fedorova SA, Vasquez R, Villena M, Moreau C, Barrantes R, Pauls D, Excoffier L, Bedoya G, Rothhammer F, Dugoujon JM, Larrouy G, Klitz W, Labuda D, Kidd J, Kidd K, Di Rienzo A, Freimer NB, Price AL, Ruiz-Linares A. Reconstructing Native American population history. Nature. 2012 488(7411):370-4 [PubMed](https://pubmed.ncbi.nlm.nih.gov/22801491/)
 
@@ -90,7 +90,7 @@ Luca F, Hudson RR, Witonsky DB, Di Rienzo A (2011) A reduced representation appr
 
 Sun C, Southard C, Olopade OI, Di Rienzo A (2011) Differential allelic expression of c.1568C > A at UGT2B15 is due to variation in a novel cis-regulatory element in the 3' UTR. Gene 481(1):24-8. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21513781/)
 
-Maranville JC, Luca F, Richards AL, Wen X, Witonsky DB, Baxter S, Stephens M, Di Rienzo A (2011) Interactions between glucocorticoid treatment and cis-regulatory polymorphisms contribute to cellular response phenotypes. PLoS Genet. 7(7):e1002162  [PubMed](https://pubmed.ncbi.nlm.nih.gov/21750684/)
+Maranville JC, Luca F, Richards AL, Wen X, Witonsky DB, Baxter S, Stephens M, Di Rienzo A (2011) Interactions between glucocorticoid treatment and cis-regulatory polymorphisms contribute to cellular response phenotypes. PLoS Genet. 7(7):e1002162  [PubMed](https://pubmed.ncbi.nlm.nih.gov/21750684/) [microarray data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE29342)
 
 Sun C, Huo D, Southard C, Nemesure B, Hennis A, Cristina Leske M, Wu SY, Witonsky DB, Olopade OI, Di Rienzo A (2011) A signature of balancing selection in the region upstream to the human UGT2B4 gene and implications for breast cancer risk. Hum Genet. Jun 10.  [PubMed](https://pubmed.ncbi.nlm.nih.gov/21660508/)
 
