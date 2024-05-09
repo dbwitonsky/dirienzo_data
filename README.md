@@ -186,13 +186,13 @@ Hamblin MT and Di Rienzo A (2000) Detection of the signature of natural selectio
 
 Gonser R, Donnelly P, Nicholson G, and Di Rienzo A (2000) Microsatellite mutations and inferences about human evolution. Genetics 154: 1793-1807 [PubMed]
 
-Przeworski M, Hudson RR, and Di Rienzo A (2000) Adjusting the focus on human variation. Trends Genet. 16: 279-325 [PubMed]
+Przeworski M, Hudson RR, and Di Rienzo A (2000) Adjusting the focus on human variation. Trends Genet. 16: 279-325 [PubMed](https://pubmed.ncbi.nlm.nih.gov/10858659/)
 
-Hall D, Ybazeta G, Destro-Bisol G, Petzl-Erler ML, and Di Rienzo A (1999) Variability at the uridine diphosphate glucuronosyltransferase 1A1 promoter in human populations and primates. Pharmacogenetics 9: 591-599 [PubMed]
+Hall D, Ybazeta G, Destro-Bisol G, Petzl-Erler ML, and Di Rienzo A (1999) Variability at the uridine diphosphate glucuronosyltransferase 1A1 promoter in human populations and primates. Pharmacogenetics 9: 591-599 [PubMed](https://pubmed.ncbi.nlm.nih.gov/10591539/)
 
-Krings M, Salem AH, Bauer K, Geisert H, Malek AK, Chaix L, Welsby D, Di Rienzo A, Utermann G, Sajantila A, Pääbo S, and Stoneking M (1999) MtDNA analysis of Nile River Valley populations: a genetic corridor or barrier for migration? Am. J. Hum. Genet. 64: 1166-1176 [PubMed]
+Krings M, Salem AH, Bauer K, Geisert H, Malek AK, Chaix L, Welsby D, Di Rienzo A, Utermann G, Sajantila A, Pääbo S, and Stoneking M (1999) MtDNA analysis of Nile River Valley populations: a genetic corridor or barrier for migration? Am. J. Hum. Genet. 64: 1166-1176 [PubMed](https://pubmed.ncbi.nlm.nih.gov/10090902/)
 
-Iyer L, Hall D, Das S, Mortell MA, Ramirez J, Kim S, Di Rienzo A, and Ratain MJ (1999) Phenotype/genotype correlation of in vitro SN-38 and bilirubin glucuronidation in human liver tissue with uridine diphosphate glucuronosyltransferase 1A1 (UGT1A1) promoter polymorphism. Clin. Pharm. Ther. 65: 576-582 [PubMed]
+Iyer L, Hall D, Das S, Mortell MA, Ramirez J, Kim S, Di Rienzo A, and Ratain MJ (1999) Phenotype/genotype correlation of in vitro SN-38 and bilirubin glucuronidation in human liver tissue with uridine diphosphate glucuronosyltransferase 1A1 (UGT1A1) promoter polymorphism. Clin. Pharm. Ther. 65: 576-582 [PubMed](https://pubmed.ncbi.nlm.nih.gov/10340924/)
 
 Ober C, Cox NJ, Abney M, Di Rienzo A, Lander ES, et al. (1998) Genome-wide search for asthma susceptibility loci in a founder population. Hum. Mol. Genet. 7: 1393-1398 [PubMed](https://pubmed.ncbi.nlm.nih.gov/9700192/)
 
