@@ -194,10 +194,10 @@ Krings M, Salem AH, Bauer K, Geisert H, Malek AK, Chaix L, Welsby D, Di Rienzo A
 
 Iyer L, Hall D, Das S, Mortell MA, Ramirez J, Kim S, Di Rienzo A, and Ratain MJ (1999) Phenotype/genotype correlation of in vitro SN-38 and bilirubin glucuronidation in human liver tissue with uridine diphosphate glucuronosyltransferase 1A1 (UGT1A1) promoter polymorphism. Clin. Pharm. Ther. 65: 576-582 [PubMed]
 
-Ober C, Cox NJ, Abney M, Di Rienzo A, Lander ES, et al. (1998) Genome-wide search for asthma susceptibility loci in a founder population. Hum. Mol. Genet. 7: 1393-1398 [PubMed]
+Ober C, Cox NJ, Abney M, Di Rienzo A, Lander ES, et al. (1998) Genome-wide search for asthma susceptibility loci in a founder population. Hum. Mol. Genet. 7: 1393-1398 [PubMed](https://pubmed.ncbi.nlm.nih.gov/9700192/)
 
-Di Rienzo A (1998) Studies of Populations and Genetic Diseases: Mixing It Up. Trends Genet. 14: 218-219 [PubMed]
+Di Rienzo A (1998) Studies of Populations and Genetic Diseases: Mixing It Up. Trends Genet. 14: 218-219 [PubMed](https://pubmed.ncbi.nlm.nih.gov/9635402/)
 
-Di Rienzo A, Donnelly P, Toomajian C, Sisk B, Hill A, Petzl-Erler M, Haines G, and Barch D (1998) Heterogeneity of microsatellite mutations within and between loci, and implications for human demographic histories. Genetics 148: 1269-1284 [PubMed]
+Di Rienzo A, Donnelly P, Toomajian C, Sisk B, Hill A, Petzl-Erler M, Haines G, and Barch D (1998) Heterogeneity of microsatellite mutations within and between loci, and implications for human demographic histories. Genetics 148: 1269-1284 [PubMed](https://pubmed.ncbi.nlm.nih.gov/9539441/)
 
-Sajantila A, Lahermo P, Anttinen T, Lukka M, Sistonen P, Savontaus M, Lukka P, Beckman L, Tranebjaerg L, Gedde-Dahl T, Issel-Tarver L, Di Rienzo A, & Pääbo S (1995) Genes and Languages in Europe: an analysis of mitochondrial DNA lineages. Genome Res. 5:42-52 [PubMed]
+Sajantila A, Lahermo P, Anttinen T, Lukka M, Sistonen P, Savontaus M, Lukka P, Beckman L, Tranebjaerg L, Gedde-Dahl T, Issel-Tarver L, Di Rienzo A, & Pääbo S (1995) Genes and Languages in Europe: an analysis of mitochondrial DNA lineages. Genome Res. 5:42-52 [PubMed](https://pubmed.ncbi.nlm.nih.gov/8717054/)
