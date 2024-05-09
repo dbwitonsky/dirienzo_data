@@ -56,7 +56,7 @@ Maranville JC, Micic D, Hanauer SB, Di Rienzo A, Kupfer SS. (2014) In vitro sens
 
 Maranville JC, Nanda R, Fleming GF, Skor MN, Di Rienzo A, Conzen SD. (2014) Gene expression of peripheral blood cells reveals pathways downstream of glucocorticoid receptor antagonism and nab-paclitaxel treatment. Pharmacogenet Genomics. 2014;24(9):451-8. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25000515/)
 
-Li H, Giger ML, Sun C, Ponsukcharoen U, Huo D, Lan L, Olopade OI, Jamieson AR, Brown JB, Di Rienzo A. (2014) Pilot study demonstrating potential association between breast cancer image-based risk phenotypes and genomic biomarkers. Med Phys. 41(3):031917 [PubMed](https://pubmed.ncbi.nlm.nih.gov/24593735/)
+Li H, Giger ML, Sun C, Ponsukcharoen U, Huo D, Lan L, Olopade OI, Jamieson AR, Brown JB, Di Rienzo A. (2014) Pilot study demonstrating potential association between breast cancer image-based risk phenotypes and genomic biomarkers. Med Phys. 41(3):031917 [PubMed](https://pubmed.ncbi.nlm.nih.gov/24593735/) [genotype data](https://github.com/dbwitonsky/dirienzo_lab/blob/main/final%20genotype%20data.xls)
 
 Jeong C, Alkorta-Aranburu G, Basnyat B, Neupane M, Witonsky DB, Pritchard JK, Beall CM, Di Rienzo A. (2014) Admixture facilitates genetic adaptations to high altitude in Tibet. Nat Commun. 5:3281 [PubMed](https://pubmed.ncbi.nlm.nih.gov/24513612/) [sequence data](https://www.ncbi.nlm.nih.gov/sra?linkname=bioproject_sra_all&from_uid=232645)
 
