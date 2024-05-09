@@ -170,21 +170,21 @@ Pluzhnikov A, Di Rienzo A and Hudson RR (2002) Inferences about human demography
 
 Aldrich C, Wambebe C, Odama L, Di Rienzo A, and  Ober C (2002) Linkage disequilibrium and age estimates of a deletion polymorphism (1597ΔC) in HLA-G suggest non-neutral evolution. Hum. Immunol.   63: 405-412 [PubMed](https://pubmed.ncbi.nlm.nih.gov/11975984/)
 
-Fullerton SM, Bartoszewicz A, Ybazeta G, Horikawa Y, Bell GI, Kidd KK, Cox NJ, Hudson RR, and  Di Rienzo A (2002) Geographic and haplotype structure of candidate type 2 diabetes susceptibility variants at the calpain-10 locus. Am. J. Hum. Genet. 70: 1096-1106 [PubMed]
+Fullerton SM, Bartoszewicz A, Ybazeta G, Horikawa Y, Bell GI, Kidd KK, Cox NJ, Hudson RR, and  Di Rienzo A (2002) Geographic and haplotype structure of candidate type 2 diabetes susceptibility variants at the calpain-10 locus. Am. J. Hum. Genet. 70: 1096-1106 [PubMed](https://pubmed.ncbi.nlm.nih.gov/11891618/)
 
-Hamblin MT, Thompson EE, and Di Rienzo A (2002) Complex signatures of natural selection at the Duffy blood group locus. Am. J. Hum. Genet. 70:369-383 [PubMed]
+Hamblin MT, Thompson EE, and Di Rienzo A (2002) Complex signatures of natural selection at the Duffy blood group locus. Am. J. Hum. Genet. 70:369-383 [PubMed](https://pubmed.ncbi.nlm.nih.gov/11753822/)
 
-Frisse L, Hudson RR, Bartoszewicz A, Wall JD, Donfack J, and Di Rienzo A (2001) Gene conversion and different population histories may explain the contrast between polymorphism and linkage disequilibrium levels. Am. J. Hum. Genet. 69: 831-843 [PubMed]
+Frisse L, Hudson RR, Bartoszewicz A, Wall JD, Donfack J, and Di Rienzo A (2001) Gene conversion and different population histories may explain the contrast between polymorphism and linkage disequilibrium levels. Am. J. Hum. Genet. 69: 831-843 [PubMed](https://pubmed.ncbi.nlm.nih.gov/11533915/)
 
-Smirnova I, Hamblin M, McBride C, Beutler B, and Di Rienzo A (2001) Excess of rare amino acid polymorphisms in the Toll-like receptor 4 in humans. Genetics 158: 1657-1664 [PubMed]
+Smirnova I, Hamblin M, McBride C, Beutler B, and Di Rienzo A (2001) Excess of rare amino acid polymorphisms in the Toll-like receptor 4 in humans. Genetics 158: 1657-1664 [PubMed](https://pubmed.ncbi.nlm.nih.gov/11514453/)
 
-Wu X, Di Rienzo A, and Ober C (2001) A population genetics study of single nucleotide polymorphisms in the interleukin 4 receptor a (IL4RA) gene. Genes Immun. 2: 128-134 [PubMed]
+Wu X, Di Rienzo A, and Ober C (2001) A population genetics study of single nucleotide polymorphisms in the interleukin 4 receptor a (IL4RA) gene. Genes Immun. 2: 128-134 [PubMed](https://pubmed.ncbi.nlm.nih.gov/11426321/)
 
-Richards M, Macaulay V, Hickey E, Vega E, Guida V, Rengo C, Sellitto D, Cruciani F, Kivisild R, Villems R, Cabrera V, Thomas M, Bradman N, Rychkov S, Rychkov O, Gölge M, Dimitrov D, Hill E, Bradley D, Romano V, Papiha S, Stefanescu G, Hatina J, Belledi M, Di Rienzo A, Oppenheim A, Santachiara-Benerecetti S, Scozzari R, Sykes B, Torroni A, and Bandelt HJ (2000) Tracing European founder lineages in the Near Eastern mtDNA pool. Am. J. Hum. Genet. 67:1251-1276 [PubMed]
+Richards M, Macaulay V, Hickey E, Vega E, Guida V, Rengo C, Sellitto D, Cruciani F, Kivisild R, Villems R, Cabrera V, Thomas M, Bradman N, Rychkov S, Rychkov O, Gölge M, Dimitrov D, Hill E, Bradley D, Romano V, Papiha S, Stefanescu G, Hatina J, Belledi M, Di Rienzo A, Oppenheim A, Santachiara-Benerecetti S, Scozzari R, Sykes B, Torroni A, and Bandelt HJ (2000) Tracing European founder lineages in the Near Eastern mtDNA pool. Am. J. Hum. Genet. 67:1251-1276 [PubMed](https://pubmed.ncbi.nlm.nih.gov/11032788/)
 
-Hamblin MT and Di Rienzo A (2000) Detection of the signature of natural selection in humans: evidence from the Duffy blood group locus. Am. J. Hum. Genet. 66: 1669-1679 [PubMed]
+Hamblin MT and Di Rienzo A (2000) Detection of the signature of natural selection in humans: evidence from the Duffy blood group locus. Am. J. Hum. Genet. 66: 1669-1679 [PubMed](https://pubmed.ncbi.nlm.nih.gov/10762551/)
 
-Gonser R, Donnelly P, Nicholson G, and Di Rienzo A (2000) Microsatellite mutations and inferences about human evolution. Genetics 154: 1793-1807 [PubMed]
+Gonser R, Donnelly P, Nicholson G, and Di Rienzo A (2000) Microsatellite mutations and inferences about human evolution. Genetics 154: 1793-1807 [PubMed](https://pubmed.ncbi.nlm.nih.gov/10747070/)
 
 Przeworski M, Hudson RR, and Di Rienzo A (2000) Adjusting the focus on human variation. Trends Genet. 16: 279-325 [PubMed](https://pubmed.ncbi.nlm.nih.gov/10858659/)
 
