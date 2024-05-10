@@ -108,7 +108,7 @@ Hancock AM, Alkorta-Aranburu G, Witonsky DB, Di Rienzo A (2010) Adaptations to n
 
 Coop G, Witonsky D, Di Rienzo A, and Pritchard JK (2010) Using Environmental Correlations to Identify Loci Underlying Local Adaptation. Genetics. 185(4):1411-23 [PubMed](https://pubmed.ncbi.nlm.nih.gov/20516501/)
 
-Hancock AM, Witonsky DB, Ehler E, Alkorta-Aranburu G, Beall C, Gebremedhin A, Sukernik R, Utermann G, Pritchard J, Coop G, and Di Rienzo A (2010) Human adaptations to diet, subsistence, and ecoregion are due to subtle shifts in allele frequency. Proc Natl Acad Sci. 107 Suppl 2:8924-30. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20445095/)
+Hancock AM, Witonsky DB, Ehler E, Alkorta-Aranburu G, Beall C, Gebremedhin A, Sukernik R, Utermann G, Pritchard J, Coop G, and Di Rienzo A (2010) Human adaptations to diet, subsistence, and ecoregion are due to subtle shifts in allele frequency. Proc Natl Acad Sci. 107 Suppl 2:8924-30. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20445095/) [dbCLINE](https://zenodo.org/records/11176827)
 
 Luca F, Perry GH, and Di Rienzo A (2010) Evolutionary adaptations to dietary changes. Annu Rev Nutr. 30:291-314 [PubMed](https://pubmed.ncbi.nlm.nih.gov/20420525/)
 
