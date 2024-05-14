@@ -86,7 +86,7 @@ Sun C, Southard C, Huo D, Hernandez RD, Witonsky DB, Olopade OI, Di Rienzo A (20
 
 Munoz-Fuentes M, Di Rienzo A, Vila C (2011) Prdm9, a Major Determinant of Meiotic Recombination Hotspots, Is Not Functional in Dogs and Their Wild Relatives, Wolves and Coyotes, PLoS ONE 6(11):e25498 [PubMed](https://pubmed.ncbi.nlm.nih.gov/22102853/)
 
-Luca F, Hudson RR, Witonsky DB, Di Rienzo A (2011) A reduced representation approach to population genetic analyses and applications to human evolution. Genome Res. 21(7):1087-98. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21628451/)
+Luca F, Hudson RR, Witonsky DB, Di Rienzo A (2011) A reduced representation approach to population genetic analyses and applications to human evolution. Genome Res. 21(7):1087-98. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21628451/) [sequence data](https://www.ncbi.nlm.nih.gov/sra/?term=SRA030837)
 
 Sun C, Southard C, Olopade OI, Di Rienzo A (2011) Differential allelic expression of c.1568C > A at UGT2B15 is due to variation in a novel cis-regulatory element in the 3' UTR. Gene 481(1):24-8. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21513781/)
 
