@@ -53,7 +53,7 @@ Jeong C, Di Rienzo A. (2014) Adaptations to local environments in modern human p
 
 Maranville JC, Micic D, Hanauer SB, Di Rienzo A, Kupfer SS. (2014) In vitro sensitivity assays and clinical response to glucocorticoids in patients with inflammatory bowel disease. J Crohns Colitis. 2014;8(11):1539-47. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25052346/)
 
-Maranville JC, Nanda R, Fleming GF, Skor MN, Di Rienzo A, Conzen SD. (2014) Gene expression of peripheral blood cells reveals pathways downstream of glucocorticoid receptor antagonism and nab-paclitaxel treatment. Pharmacogenet Genomics. 2014;24(9):451-8. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25000515/)
+Maranville JC, Nanda R, Fleming GF, Skor MN, Di Rienzo A, Conzen SD. (2014) Gene expression of peripheral blood cells reveals pathways downstream of glucocorticoid receptor antagonism and nab-paclitaxel treatment. Pharmacogenet Genomics. 2014;24(9):451-8. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25000515/) [microarray data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE268708)
 
 Li H, Giger ML, Sun C, Ponsukcharoen U, Huo D, Lan L, Olopade OI, Jamieson AR, Brown JB, Di Rienzo A. (2014) Pilot study demonstrating potential association between breast cancer image-based risk phenotypes and genomic biomarkers. Med Phys. 41(3):031917 [PubMed](https://pubmed.ncbi.nlm.nih.gov/24593735/) [genotype data](https://zenodo.org/records/11186381)
 
