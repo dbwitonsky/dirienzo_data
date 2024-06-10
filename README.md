@@ -63,7 +63,7 @@ Paré-Brunet L, Glubb D, Evans P, Berenguer-Llergo A, Etheridge AS, Skol AD, Di 
 
 Kupfer SS, Maranville JC, Baxter SS, Huang Y, Di Rienzo A (2013) Comparison of Cellular and Transcriptional Responses to 1,25-Dihydroxyvitamin D3 and Glucocorticoids in Peripheral Blood Mononuclear Cells. PLOS ONE 8(10): e76643 [PubMed](https://pubmed.ncbi.nlm.nih.gov/24116131/) [microarray data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE50012)
 
-Maranville JC, Baxter SS, Witonsky DB, Chase MA, Di Rienzo A. (2013) Genetic Mapping with Multiple Levels of Phenotypic Information Reveals Determinants of Lymphocyte Glucocorticoid Sensitivity. Am J Hum Genet. 93(4):735-743 [PubMed](https://pubmed.ncbi.nlm.nih.gov/24055111/) [microarray data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE48801)
+Maranville JC, Baxter SS, Witonsky DB, Chase MA, Di Rienzo A. (2013) Genetic Mapping with Multiple Levels of Phenotypic Information Reveals Determinants of Lymphocyte Glucocorticoid Sensitivity. Am J Hum Genet. 93(4):735-743 [PubMed](https://pubmed.ncbi.nlm.nih.gov/24055111/) [microarray data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE48801) [genotype data](https://zenodo.org/records/11555389)
 
 Lundgrin EL, Janocha AJ, Koch CD, Gebremedhin A, Di Rienzo A, Alkorta-Aranburu G, Brittenham GM, Erzurum SC, Beall CM. (2013) Plasma hepcidin of Ethiopian highlanders with steady-state hypoxia. Blood. 122(11):1989-91 [PubMed](https://pubmed.ncbi.nlm.nih.gov/24030262/)
 
