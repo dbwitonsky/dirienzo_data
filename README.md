@@ -23,7 +23,7 @@ Cho JI, Basnyat B, Jeong C, Di Rienzo A, Childs G, Craig SR, Sun J, Beall CM. Et
 Jeong C, Peter BM, Basnyat B, Neupane M, Beall CM, Childs G, Craig SR, Novembre J, Di Rienzo A. A longitudinal cline characterizes the genetic structure of human populations in the Tibetan plateau. PLoS One. 2017 Apr 27;12(4):e0175885 [PubMed](https://pubmed.ncbi.nlm.nih.gov/28448508/)
 [genotype data](https://datadryad.org/stash/dataset/doi:10.5061/dryad.77v30)
 
- Alleyne D, Witonsky DB, Mapes B, Nakagome S, Sommars M, Hong E, Muckala KA, Di Rienzo A, Kupfer SS. Colonic transcriptional response to 1α,25(OH)(2) vitamin D(3) in African- and European-Americans. J Steroid Biochem Mol Biol. 2017 Apr;168:49-59. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28163244/)
+ Alleyne D, Witonsky DB, Mapes B,  S, Sommars M, Hong E, Muckala KA, Di Rienzo A, Kupfer SS. Colonic transcriptional response to 1α,25(OH)(2) vitamin D(3) in African- and European-Americans. J Steroid Biochem Mol Biol. 2017 Apr;168:49-59. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28163244/)
 
 Cole AM, Cox S, Jeong C, Petousi N, Aryal DR, Droma Y, Hanaoka M, Ota M, Kobayashi N, Gasparini P, Montgomery H, Robbins P, Di Rienzo A, Cavalleri GL. Genetic structure in the Sherpa and neighboring Nepalese populations. BMC Genomics. 2017 Jan 19;18(1):102. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28103797/)
 
@@ -37,7 +37,7 @@ Jeong C, Ozga AT, Witonsky DB, Malmström H, Edlund H, Hofman CA, Hagan RW, Jako
 
 Kariuki SN, Blischak JD, Nakagome S, Witonsky DB, Di Rienzo A. Patterns of Transcriptional Response to 1,25-Dihydroxyvitamin D3 and Bacterial Lipopolysaccharide in Primary Human Monocytes. G3 (Bethesda). 2016 6(5):1345-55. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26976439/) [microarray data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE78083)
 
-Nakagome S, Alkorta-Aranburu G, Amato R, Howie B, Peter BM, Hudson RR, Di Rienzo A. Estimating the ages of selection signals from different epochs in human history. Mol Biol Evol. 2016; 33(3):657-69. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26545921/)
+Nakagome S, Alkorta-Aranburu G, Amato R, Howie B, Peter BM, Hudson RR, Di Rienzo A. Estimating the ages of selection signals from different epochs in human history. Mol Biol Evol. 2016; 33(3):657-69. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26545921/) [sequence data](https://www.ncbi.nlm.nih.gov/sra/?term=SRP017764)
 
 Jeong C, Nakagome S, Di Rienzo A. Deep History of East Asian Populations Revealed Through Genetic Analysis of the Ainu. Genetics. 2016; 202(1):261-72. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26500257/)
 
