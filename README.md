@@ -93,7 +93,7 @@ Maranville JC, Luca F, Richards AL, Wen X, Witonsky DB, Baxter S, Stephens M, Di
 
 Sun C, Huo D, Southard C, Nemesure B, Hennis A, Cristina Leske M, Wu SY, Witonsky DB, Olopade OI, Di Rienzo A (2011) A signature of balancing selection in the region upstream to the human UGT2B4 gene and implications for breast cancer risk. Hum Genet. Jun 10.  [PubMed](https://pubmed.ncbi.nlm.nih.gov/21660508/)
 
-Hancock AM, Witonsky DB, Alkorta-Aranburu G, Beall CM, Gebremedhin A, Sukernik R, Utermann G, Pritchard JK, Coop G, Di Rienzo A (2011) Adaptations to climate-mediated selective pressures in humans. PLoS Genet. 7(4):e1001375 [PubMed](https://pubmed.ncbi.nlm.nih.gov/21533023/) [dbCLINE data](https://zenodo.org/records/11176827)
+Hancock AM, Witonsky DB, Alkorta-Aranburu G, Beall CM, Gebremedhin A, Sukernik R, Utermann G, Pritchard JK, Coop G, Di Rienzo A (2011) Adaptations to climate-mediated selective pressures in humans. PLoS Genet. 7(4):e1001375 [PubMed](https://pubmed.ncbi.nlm.nih.gov/21533023/) [dbCLINE data](https://zenodo.org/records/11176827) [genotype data](https://zenodo.org/records/11584765)
 
 Sucheston L, Witonsky DB, Hastings D, Yildiz O, Clark VJ, Di Rienzo A, Onel K (2011) Natural selection and functional genetic variation in the p53 pathway. Hum Mol Genet. 20: 1502-08 [PubMed](https://pubmed.ncbi.nlm.nih.gov/21266458/)
 
