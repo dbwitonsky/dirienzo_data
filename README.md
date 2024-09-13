@@ -65,7 +65,7 @@ Kupfer SS, Maranville JC, Baxter SS, Huang Y, Di Rienzo A (2013) Comparison of C
 
 Maranville JC, Baxter SS, Witonsky DB, Chase MA, Di Rienzo A. (2013) Genetic Mapping with Multiple Levels of Phenotypic Information Reveals Determinants of Lymphocyte Glucocorticoid Sensitivity. Am J Hum Genet. 93(4):735-743 [PubMed](https://pubmed.ncbi.nlm.nih.gov/24055111/) [microarray data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE48801) [genotype data](https://zenodo.org/records/11555389)
 
-Lundgrin EL, Janocha AJ, Koch CD, Gebremedhin A, Di Rienzo A, Alkorta-Aranburu G, Brittenham GM, Erzurum SC, Beall CM. (2013) Plasma hepcidin of Ethiopian highlanders with steady-state hypoxia. Blood. 122(11):1989-91 [PubMed](https://pubmed.ncbi.nlm.nih.gov/24030262/)
+Lundgrin EL, Janocha AJ, Koch CD, Gebremedhin A, Di Rienzo A, Alkorta-Aranburu G, Brittenham GM, Erzurum SC, Beall CM. (2013) Plasma hepcidin of ian highlanders with steady-state hypoxia. Blood. 122(11):1989-91 [PubMed](https://pubmed.ncbi.nlm.nih.gov/24030262/)
 
 Luca F, Di Rienzo A (2013) Allelic imbalance assays to quantify allele-specific gene expression and transcription factor binding. Methods Mol Biol 1015:201-211 [PubMed](https://pubmed.ncbi.nlm.nih.gov/23824858/)
 
@@ -77,7 +77,7 @@ Maranville JC, Baxter SS, Torres JM, Di Rienzo A (2013) Inter-ethnic differences
 
 Reich D, Patterson N, Campbell D, Tandon A, Mazieres S, Ray N, Parra MV, Rojas W, Duque C, Mesa N, García LF, Triana O, Blair S, Maestre A, Dib JC, Bravi CM, Bailliet G, Corach D, Hünemeier T, Bortolini MC, Salzano FM, Petzl-Erler ML, Acuña-Alonzo V, Aguilar-Salinas C, Canizales-Quinteros S, Tusié-Luna T, Riba L, Rodríguez-Cruz M, Lopez-Alarcón M, Coral-Vazquez R, Canto-Cetina T, Silva-Zolezzi I, Fernandez-Lopez JC, Contreras AV, Jimenez-Sanchez G, Gómez-Vázquez MJ, Molina J, Carracedo A, Salas A, Gallo C, Poletti G, Witonsky DB, Alkorta-Aranburu G, Sukernik RI, Osipova L, Fedorova SA, Vasquez R, Villena M, Moreau C, Barrantes R, Pauls D, Excoffier L, Bedoya G, Rothhammer F, Dugoujon JM, Larrouy G, Klitz W, Labuda D, Kidd J, Kidd K, Di Rienzo A, Freimer NB, Price AL, Ruiz-Linares A. Reconstructing Native American population history. Nature. 2012 488(7411):370-4 [PubMed](https://pubmed.ncbi.nlm.nih.gov/22801491/)
 
-Alkorta-Aranburu G, Beall CM, Witonsky DB, Gebremedhin A, Pritchard JK, Di Rienzo A (2012) The genetic architecture of adaptations to high altitude in Ethiopia. PLOS Genetics 8(12): e1003110 [PubMed](https://pubmed.ncbi.nlm.nih.gov/23236293/) [genotype data](https://zenodo.org/records/11176899)
+Alkorta-Aranburu G, Beall CM, Witonsky DB, Gebremedhin A, Pritchard JK, Di Rienzo A (2012) The genetic architecture of adaptations to high altitude in Ethiopia. PLOS Genetics 8(12): e1003110 [PubMed](https://pubmed.ncbi.nlm.nih.gov/23236293/) [genotype data](https://zenodo.org/records/11176899) [methylation data](https://zenodo.org/records/13760105)
 
 Maranville JC, Luca F, Stephens M, Di Rienzo A (2012) Mapping gene-environment interactions at regulatory polymorphisms: Insights into mechanisms of phenotypic variation. Transcription 3(2):56-62 [PubMed](https://pubmed.ncbi.nlm.nih.gov/22414753/)
 
